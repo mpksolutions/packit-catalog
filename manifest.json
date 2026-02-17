@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "files": {
+    "items": {
+      "path": "items.json",
+      "checksum": "0b1a8d0d23c46d26ee62279157d9fe6f75ac8b6f59e67061cb21ce3c6da877f5"
+    },
+    "activities": {
+      "path": "activities.json",
+      "checksum": "ffe8b3fd7097390cac3aeea698ac37c2c5663c00d14f5df7b30a666c6977663d"
+    },
+    "strings": {
+      "en-GB": {
+        "path": "strings/en-GB.json",
+        "checksum": "d0a9303ddbad4159eca364dcb75095ab6952390bc3845dc8c282c26c60db00ee"
+      },
+      "en": {
+        "path": "strings/en.json",
+        "checksum": "841d9eeb9460588a1570b3a038e69d5dee31b4749c0f537d335bdcf7e7c794ca"
+      }
+    }
+  }
+}

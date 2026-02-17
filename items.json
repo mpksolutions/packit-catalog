@@ -1,0 +1,2994 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "nameKey": "items.active.shoes",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 450
+    },
+    {
+      "nameKey": "items.activewear",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.adjustable.red.light",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 150
+    },
+    {
+      "nameKey": "items.after.bite.relief",
+      "categoryKey": "categories.categoryhealth",
+      "estimatedWeight": 50
+    },
+    {
+      "nameKey": "items.aftersun.care",
+      "categoryKey": "categories.categoryhealth",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.aloe.vera",
+      "categoryKey": "categories.categoryhealth",
+      "estimatedWeight": 150
+    },
+    {
+      "nameKey": "items.altitude.medication",
+      "categoryKey": "categories.categoryhealth",
+      "estimatedWeight": 50
+    },
+    {
+      "nameKey": "items.altitude.sickness.medication",
+      "categoryKey": "categories.categoryhealth",
+      "estimatedWeight": 80
+    },
+    {
+      "nameKey": "items.antibiotics",
+      "categoryKey": "categories.categoryhealth",
+      "estimatedWeight": 60
+    },
+    {
+      "nameKey": "items.antiinflammatory.medication",
+      "categoryKey": "categories.categoryhealth",
+      "estimatedWeight": 50
+    },
+    {
+      "nameKey": "items.antimalarial.medication",
+      "categoryKey": "categories.categoryhealth",
+      "estimatedWeight": 70
+    },
+    {
+      "nameKey": "items.antiseptic",
+      "categoryKey": "categories.categoryhealth",
+      "estimatedWeight": 100
+    },
+    {
+      "nameKey": "items.approach.shoes",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 700
+    },
+    {
+      "nameKey": "items.astronomy.binoculars",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 1200
+    },
+    {
+      "nameKey": "items.astronomy.filter",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 100
+    },
+    {
+      "nameKey": "items.astrophotography.camera",
+      "categoryKey": "categories.categoryelectronics",
+      "estimatedWeight": 800
+    },
+    {
+      "nameKey": "items.athletic.wear",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 150
+    },
+    {
+      "nameKey": "items.audiobook",
+      "categoryKey": "categories.categoryentertainment",
+      "estimatedWeight": 5
+    },
+    {
+      "nameKey": "items.baby.bottle",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 150
+    },
+    {
+      "nameKey": "items.backpack",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 1000
+    },
+    {
+      "nameKey": "items.backpack.cover",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.balaclava",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 80
+    },
+    {
+      "nameKey": "items.band.aids",
+      "categoryKey": "categories.categoryhealth",
+      "estimatedWeight": 50
+    },
+    {
+      "nameKey": "items.bandana",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 30
+    },
+    {
+      "nameKey": "items.barlow.lens",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 300
+    },
+    {
+      "nameKey": "items.base.layers",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.batteries",
+      "categoryKey": "categories.categoryelectronics",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.battery.radio",
+      "categoryKey": "categories.categoryelectronics",
+      "estimatedWeight": 300
+    },
+    {
+      "nameKey": "items.beach.bag",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 400
+    },
+    {
+      "nameKey": "items.beach.chair",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 2000
+    },
+    {
+      "nameKey": "items.beach.games",
+      "categoryKey": "categories.categoryentertainment",
+      "estimatedWeight": 400
+    },
+    {
+      "nameKey": "items.beach.tent",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 2000
+    },
+    {
+      "nameKey": "items.beach.towel",
+      "categoryKey": "categories.categoryother",
+      "estimatedWeight": 400
+    },
+    {
+      "nameKey": "items.beach.umbrella",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 1500
+    },
+    {
+      "nameKey": "items.beach.volleyball",
+      "categoryKey": "categories.categoryentertainment",
+      "estimatedWeight": 280
+    },
+    {
+      "nameKey": "items.bear.canister",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 1000
+    },
+    {
+      "nameKey": "items.belay.device",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 100
+    },
+    {
+      "nameKey": "items.bicycle",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 12000
+    },
+    {
+      "nameKey": "items.bike.computer",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 100
+    },
+    {
+      "nameKey": "items.bike.helmet",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 400
+    },
+    {
+      "nameKey": "items.bike.lights",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.bike.lock",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 800
+    },
+    {
+      "nameKey": "items.bike.multitool",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 150
+    },
+    {
+      "nameKey": "items.bike.pump",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 300
+    },
+    {
+      "nameKey": "items.bike.repair.kit",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 400
+    },
+    {
+      "nameKey": "items.binocular.harness",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 150
+    },
+    {
+      "nameKey": "items.binoculars",
+      "categoryKey": "categories.categoryaccessories",
+      "estimatedWeight": 500
+    },
+    {
+      "nameKey": "items.biodegradable.soap",
+      "categoryKey": "categories.categorytoiletries",
+      "estimatedWeight": 100
+    },
+    {
+      "nameKey": "items.bivy.bag",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 600
+    },
+    {
+      "nameKey": "items.blanket",
+      "categoryKey": "categories.categoryother",
+      "estimatedWeight": 800
+    },
+    {
+      "nameKey": "items.blister.treatment",
+      "categoryKey": "categories.categoryhealth",
+      "estimatedWeight": 30
+    },
+    {
+      "nameKey": "items.bluetooth.speaker",
+      "categoryKey": "categories.categoryelectronics",
+      "estimatedWeight": 500
+    },
+    {
+      "nameKey": "items.body.lotion",
+      "categoryKey": "categories.categorytoiletries",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.body.warmers",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.body.wash",
+      "categoryKey": "categories.categorytoiletries",
+      "estimatedWeight": 100
+    },
+    {
+      "nameKey": "items.boogie.board",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 800
+    },
+    {
+      "nameKey": "items.bookereader",
+      "categoryKey": "categories.categoryentertainment",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.breakfast",
+      "categoryKey": "categories.categoryfood",
+      "estimatedWeight": 350
+    },
+    {
+      "nameKey": "items.breathable.clothing.2",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 300
+    },
+    {
+      "nameKey": "items.breathable.rain.gear",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 400
+    },
+    {
+      "nameKey": "items.bug.spray",
+      "categoryKey": "categories.categoryhealth",
+      "estimatedWeight": 120
+    },
+    {
+      "nameKey": "items.business.cards",
+      "categoryKey": "categories.categorydocuments",
+      "estimatedWeight": 20
+    },
+    {
+      "nameKey": "items.camera",
+      "categoryKey": "categories.categoryelectronics",
+      "estimatedWeight": 500
+    },
+    {
+      "nameKey": "items.camera.bag",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 800
+    },
+    {
+      "nameKey": "items.camera.batteries",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.camera.lens",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 800
+    },
+    {
+      "nameKey": "items.camera.mount",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.camera.rain.cover",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 100
+    },
+    {
+      "nameKey": "items.camera.strap",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 80
+    },
+    {
+      "nameKey": "items.camp.knife",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.camp.shovel",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 300
+    },
+    {
+      "nameKey": "items.camp.stove",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 800
+    },
+    {
+      "nameKey": "items.camping.chair",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 1200
+    },
+    {
+      "nameKey": "items.camping.cups",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 150
+    },
+    {
+      "nameKey": "items.camping.food",
+      "categoryKey": "categories.categoryfood",
+      "estimatedWeight": 400
+    },
+    {
+      "nameKey": "items.camping.pillow",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.camping.table",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 2000
+    },
+    {
+      "nameKey": "items.camping.utensils",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.can.opener",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 100
+    },
+    {
+      "nameKey": "items.car.charger",
+      "categoryKey": "categories.categoryelectronics",
+      "estimatedWeight": 150
+    },
+    {
+      "nameKey": "items.car.jack",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 5000
+    },
+    {
+      "nameKey": "items.car.seat",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 8000
+    },
+    {
+      "nameKey": "items.carabiner",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 50
+    },
+    {
+      "nameKey": "items.cash",
+      "categoryKey": "categories.categorydocuments",
+      "estimatedWeight": 20
+    },
+    {
+      "nameKey": "items.casual.outfit",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 400
+    },
+    {
+      "nameKey": "items.chalk.bag",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 100
+    },
+    {
+      "nameKey": "items.change.of.clothes",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 400
+    },
+    {
+      "nameKey": "items.changing.pad",
+      "categoryKey": "categories.categorytoiletries",
+      "estimatedWeight": 300
+    },
+    {
+      "nameKey": "items.chapped.lip.treatment",
+      "categoryKey": "categories.categorytoiletries",
+      "estimatedWeight": 15
+    },
+    {
+      "nameKey": "items.charging.cable",
+      "categoryKey": "categories.categoryelectronics",
+      "estimatedWeight": 100
+    },
+    {
+      "nameKey": "items.clear.bags",
+      "categoryKey": "categories.categoryaccessories",
+      "estimatedWeight": 50
+    },
+    {
+      "nameKey": "items.climbing.cams",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 2000
+    },
+    {
+      "nameKey": "items.climbing.chalk",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.climbing.harness",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 400
+    },
+    {
+      "nameKey": "items.climbing.helmet",
+      "categoryKey": "categories.categoryaccessories",
+      "estimatedWeight": 300
+    },
+    {
+      "nameKey": "items.climbing.nuts",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 800
+    },
+    {
+      "nameKey": "items.climbing.shoes",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 500
+    },
+    {
+      "nameKey": "items.clothing.liners",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 100
+    },
+    {
+      "nameKey": "items.cocktail.dress",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 300
+    },
+    {
+      "nameKey": "items.coffee",
+      "categoryKey": "categories.categoryfood",
+      "estimatedWeight": 50
+    },
+    {
+      "nameKey": "items.coffee.press",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 400
+    },
+    {
+      "nameKey": "items.cold.weather.medicine",
+      "categoryKey": "categories.categoryhealth",
+      "estimatedWeight": 80
+    },
+    {
+      "nameKey": "items.collapsible.water.bag",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.collimation.tools",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 400
+    },
+    {
+      "nameKey": "items.coloring.books",
+      "categoryKey": "categories.categoryentertainment",
+      "estimatedWeight": 300
+    },
+    {
+      "nameKey": "items.comfort.item",
+      "categoryKey": "categories.categoryother",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.comfortable.clothes",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 300
+    },
+    {
+      "nameKey": "items.comfortable.clothing",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 300
+    },
+    {
+      "nameKey": "items.comfortable.shoes",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 400
+    },
+    {
+      "nameKey": "items.comfortable.walking.shoes",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 400
+    },
+    {
+      "nameKey": "items.compass",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 50
+    },
+    {
+      "nameKey": "items.compression.socks",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 100
+    },
+    {
+      "nameKey": "items.contact.lenses",
+      "categoryKey": "categories.categorytoiletries",
+      "estimatedWeight": 50
+    },
+    {
+      "nameKey": "items.convertible.pants",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 350
+    },
+    {
+      "nameKey": "items.cooking.pot",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 500
+    },
+    {
+      "nameKey": "items.cooler",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 3000
+    },
+    {
+      "nameKey": "items.cooler.bag",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 500
+    },
+    {
+      "nameKey": "items.cooling.towels",
+      "categoryKey": "categories.categoryhealth",
+      "estimatedWeight": 150
+    },
+    {
+      "nameKey": "items.cover.up",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 150
+    },
+    {
+      "nameKey": "items.crayons",
+      "categoryKey": "categories.categoryentertainment",
+      "estimatedWeight": 150
+    },
+    {
+      "nameKey": "items.credit.cards",
+      "categoryKey": "categories.categorydocuments",
+      "estimatedWeight": 5
+    },
+    {
+      "nameKey": "items.cycling.gloves",
+      "categoryKey": "categories.categoryaccessories",
+      "estimatedWeight": 80
+    },
+    {
+      "nameKey": "items.cycling.jersey",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 150
+    },
+    {
+      "nameKey": "items.cycling.shoes",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 600
+    },
+    {
+      "nameKey": "items.cycling.shorts",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 100
+    },
+    {
+      "nameKey": "items.day.pack",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 500
+    },
+    {
+      "nameKey": "items.dental.floss",
+      "categoryKey": "categories.categorytoiletries",
+      "estimatedWeight": 30
+    },
+    {
+      "nameKey": "items.deodorant",
+      "categoryKey": "categories.categorytoiletries",
+      "estimatedWeight": 50
+    },
+    {
+      "nameKey": "items.desiccant.packs",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.designer.handbag",
+      "categoryKey": "categories.categoryaccessories",
+      "estimatedWeight": 600
+    },
+    {
+      "nameKey": "items.dew.shield",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 300
+    },
+    {
+      "nameKey": "items.diapers",
+      "categoryKey": "categories.categorytoiletries",
+      "estimatedWeight": 800
+    },
+    {
+      "nameKey": "items.dim.red.light",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 100
+    },
+    {
+      "nameKey": "items.dinner.jacket",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 700
+    },
+    {
+      "nameKey": "items.down.jacket",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 600
+    },
+    {
+      "nameKey": "items.dress.shoes",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 800
+    },
+    {
+      "nameKey": "items.dress.watch",
+      "categoryKey": "categories.categoryaccessories",
+      "estimatedWeight": 120
+    },
+    {
+      "nameKey": "items.dressy.outfit",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 400
+    },
+    {
+      "nameKey": "items.drone",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 1200
+    },
+    {
+      "nameKey": "items.dry.bags",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.duct.tape",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 100
+    },
+    {
+      "nameKey": "items.ear.plugs",
+      "categoryKey": "categories.categoryaccessories",
+      "estimatedWeight": 5
+    },
+    {
+      "nameKey": "items.earplugs.for.sleep",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 5
+    },
+    {
+      "nameKey": "items.earth.tones.clothing",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 300
+    },
+    {
+      "nameKey": "items.electrolyte.supplements",
+      "categoryKey": "categories.categoryhealth",
+      "estimatedWeight": 100
+    },
+    {
+      "nameKey": "items.emergency.beacon",
+      "categoryKey": "categories.categoryelectronics",
+      "estimatedWeight": 150
+    },
+    {
+      "nameKey": "items.emergency.bivy",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 300
+    },
+    {
+      "nameKey": "items.emergency.blanket",
+      "categoryKey": "categories.categoryhealth",
+      "estimatedWeight": 100
+    },
+    {
+      "nameKey": "items.emergency.cash",
+      "categoryKey": "categories.categorydocuments",
+      "estimatedWeight": 20
+    },
+    {
+      "nameKey": "items.emergency.food",
+      "categoryKey": "categories.categoryfood",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.emergency.kit",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 2000
+    },
+    {
+      "nameKey": "items.emergency.medication",
+      "categoryKey": "categories.categoryhealth",
+      "estimatedWeight": 100
+    },
+    {
+      "nameKey": "items.emergency.radio",
+      "categoryKey": "categories.categoryelectronics",
+      "estimatedWeight": 400
+    },
+    {
+      "nameKey": "items.emergency.shelter",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 300
+    },
+    {
+      "nameKey": "items.emergency.supplies",
+      "categoryKey": "categories.categoryhealth",
+      "estimatedWeight": 500
+    },
+    {
+      "nameKey": "items.emergency.triangles",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 500
+    },
+    {
+      "nameKey": "items.emergency.whistle",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 20
+    },
+    {
+      "nameKey": "items.energy.bars",
+      "categoryKey": "categories.categoryfood",
+      "estimatedWeight": 100
+    },
+    {
+      "nameKey": "items.energy.gels",
+      "categoryKey": "categories.categoryfood",
+      "estimatedWeight": 80
+    },
+    {
+      "nameKey": "items.evening.bag",
+      "categoryKey": "categories.categoryaccessories",
+      "estimatedWeight": 300
+    },
+    {
+      "nameKey": "items.extensive.first.aid.kit",
+      "categoryKey": "categories.categoryhealth",
+      "estimatedWeight": 800
+    },
+    {
+      "nameKey": "items.extra.pet.leash",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 150
+    },
+    {
+      "nameKey": "items.eye.mask",
+      "categoryKey": "categories.categoryother",
+      "estimatedWeight": 20
+    },
+    {
+      "nameKey": "items.face.mask",
+      "categoryKey": "categories.categorytoiletries",
+      "estimatedWeight": 50
+    },
+    {
+      "nameKey": "items.festival.wristband",
+      "categoryKey": "categories.categoryentertainment",
+      "estimatedWeight": 10
+    },
+    {
+      "nameKey": "items.field.laptop",
+      "categoryKey": "categories.categoryelectronics",
+      "estimatedWeight": 1200
+    },
+    {
+      "nameKey": "items.fin.key",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 20
+    },
+    {
+      "nameKey": "items.finder.scope",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 400
+    },
+    {
+      "nameKey": "items.fire.starter",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 100
+    },
+    {
+      "nameKey": "items.fire.steel",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 100
+    },
+    {
+      "nameKey": "items.flagging",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 100
+    },
+    {
+      "nameKey": "items.flashlight",
+      "categoryKey": "categories.categoryaccessories",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.flea.treatment",
+      "categoryKey": "categories.categoryhealth",
+      "estimatedWeight": 100
+    },
+    {
+      "nameKey": "items.fleece",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 400
+    },
+    {
+      "nameKey": "items.flip.flops",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 150
+    },
+    {
+      "nameKey": "items.food.storage",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 400
+    },
+    {
+      "nameKey": "items.foot.care",
+      "categoryKey": "categories.categorytoiletries",
+      "estimatedWeight": 100
+    },
+    {
+      "nameKey": "items.foot.warmers",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 100
+    },
+    {
+      "nameKey": "items.foreign.currency",
+      "categoryKey": "categories.categorydocuments",
+      "estimatedWeight": 50
+    },
+    {
+      "nameKey": "items.formal.shoes",
+      "categoryKey": "categories.categoryaccessories",
+      "estimatedWeight": 800
+    },
+    {
+      "nameKey": "items.formal.wear",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 600
+    },
+    {
+      "nameKey": "items.frisbee",
+      "categoryKey": "categories.categoryentertainment",
+      "estimatedWeight": 150
+    },
+    {
+      "nameKey": "items.fuel",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 400
+    },
+    {
+      "nameKey": "items.fuel.canister",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 300
+    },
+    {
+      "nameKey": "items.funnel",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 100
+    },
+    {
+      "nameKey": "items.gaiters",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 150
+    },
+    {
+      "nameKey": "items.games",
+      "categoryKey": "categories.categoryentertainment",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.garbage.bags",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.glacier.glasses",
+      "categoryKey": "categories.categoryaccessories",
+      "estimatedWeight": 60
+    },
+    {
+      "nameKey": "items.glasses",
+      "categoryKey": "categories.categorytoiletries",
+      "estimatedWeight": 30
+    },
+    {
+      "nameKey": "items.glove.liners",
+      "categoryKey": "categories.categoryaccessories",
+      "estimatedWeight": 20
+    },
+    {
+      "nameKey": "items.gloves",
+      "categoryKey": "categories.categoryaccessories",
+      "estimatedWeight": 50
+    },
+    {
+      "nameKey": "items.goggles",
+      "categoryKey": "categories.categoryaccessories",
+      "estimatedWeight": 50
+    },
+    {
+      "nameKey": "items.golf.balls",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.golf.clubs",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 8000
+    },
+    {
+      "nameKey": "items.golf.shoes",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 600
+    },
+    {
+      "nameKey": "items.golf.tees",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 20
+    },
+    {
+      "nameKey": "items.gps.device",
+      "categoryKey": "categories.categoryelectronics",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.ground.cloth",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 300
+    },
+    {
+      "nameKey": "items.ground.tarp",
+      "categoryKey": "categories.categoryother",
+      "estimatedWeight": 500
+    },
+    {
+      "nameKey": "items.guy.lines",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 150
+    },
+    {
+      "nameKey": "items.hair.accessories",
+      "categoryKey": "categories.categoryaccessories",
+      "estimatedWeight": 30
+    },
+    {
+      "nameKey": "items.hammock",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 800
+    },
+    {
+      "nameKey": "items.hand.sanitizer",
+      "categoryKey": "categories.categoryhealth",
+      "estimatedWeight": 100
+    },
+    {
+      "nameKey": "items.hand.warmers",
+      "categoryKey": "categories.categorytoiletries",
+      "estimatedWeight": 50
+    },
+    {
+      "nameKey": "items.hanging.organizer",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 300
+    },
+    {
+      "nameKey": "items.hardshell.jacket",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 450
+    },
+    {
+      "nameKey": "items.hat",
+      "categoryKey": "categories.categoryaccessories",
+      "estimatedWeight": 80
+    },
+    {
+      "nameKey": "items.hatcap",
+      "categoryKey": "categories.categoryaccessories",
+      "estimatedWeight": 50
+    },
+    {
+      "nameKey": "items.hatchet",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 800
+    },
+    {
+      "nameKey": "items.hdmi.cable",
+      "categoryKey": "categories.categoryelectronics",
+      "estimatedWeight": 100
+    },
+    {
+      "nameKey": "items.head.net",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 50
+    },
+    {
+      "nameKey": "items.headache.relief",
+      "categoryKey": "categories.categoryhealth",
+      "estimatedWeight": 50
+    },
+    {
+      "nameKey": "items.headlamp",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 100
+    },
+    {
+      "nameKey": "items.headphones",
+      "categoryKey": "categories.categoryelectronics",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.heat.stroke.treatment",
+      "categoryKey": "categories.categoryhealth",
+      "estimatedWeight": 120
+    },
+    {
+      "nameKey": "items.heated.blanket",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 1000
+    },
+    {
+      "nameKey": "items.high.spf.sunscreen",
+      "categoryKey": "categories.categorytoiletries",
+      "estimatedWeight": 150
+    },
+    {
+      "nameKey": "items.hiking.boots",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 1000
+    },
+    {
+      "nameKey": "items.hiking.poles",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 600
+    },
+    {
+      "nameKey": "items.hiking.shoes",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 600
+    },
+    {
+      "nameKey": "items.hospital.bag",
+      "categoryKey": "categories.categoryother",
+      "estimatedWeight": 400
+    },
+    {
+      "nameKey": "items.host.contact.info",
+      "categoryKey": "categories.categorydocuments",
+      "estimatedWeight": 10
+    },
+    {
+      "nameKey": "items.host.gifts",
+      "categoryKey": "categories.categoryother",
+      "estimatedWeight": 300
+    },
+    {
+      "nameKey": "items.hostel.reservation",
+      "categoryKey": "categories.categorydocuments",
+      "estimatedWeight": 10
+    },
+    {
+      "nameKey": "items.hotel.reservation",
+      "categoryKey": "categories.categorydocuments",
+      "estimatedWeight": 10
+    },
+    {
+      "nameKey": "items.hydration.belt",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 300
+    },
+    {
+      "nameKey": "items.hydration.bladder",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.hydration.pack",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 800
+    },
+    {
+      "nameKey": "items.ice.packhot.pack",
+      "categoryKey": "categories.categoryhealth",
+      "estimatedWeight": 400
+    },
+    {
+      "nameKey": "items.ice.scraper",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.ice.skates",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 1200
+    },
+    {
+      "nameKey": "items.id",
+      "categoryKey": "categories.categorydocuments",
+      "estimatedWeight": 5
+    },
+    {
+      "nameKey": "items.iddrivers.license",
+      "categoryKey": "categories.categorydocuments",
+      "estimatedWeight": 5
+    },
+    {
+      "nameKey": "items.insect.proof.clothing",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 300
+    },
+    {
+      "nameKey": "items.insulated.boots",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 1500
+    },
+    {
+      "nameKey": "items.insulated.clothing",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 800
+    },
+    {
+      "nameKey": "items.insulated.jacket",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 700
+    },
+    {
+      "nameKey": "items.insulated.mug",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 300
+    },
+    {
+      "nameKey": "items.insulated.water.bottle",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 400
+    },
+    {
+      "nameKey": "items.insurance.card",
+      "categoryKey": "categories.categorydocuments",
+      "estimatedWeight": 5
+    },
+    {
+      "nameKey": "items.intervalometer",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 100
+    },
+    {
+      "nameKey": "items.iodine.tablets",
+      "categoryKey": "categories.categoryfood",
+      "estimatedWeight": 30
+    },
+    {
+      "nameKey": "items.jewelry",
+      "categoryKey": "categories.categoryaccessories",
+      "estimatedWeight": 50
+    },
+    {
+      "nameKey": "items.journal",
+      "categoryKey": "categories.categoryentertainment",
+      "estimatedWeight": 150
+    },
+    {
+      "nameKey": "items.jumper.cables",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 2000
+    },
+    {
+      "nameKey": "items.kayak",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 12000
+    },
+    {
+      "nameKey": "items.khaki.clothing",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 300
+    },
+    {
+      "nameKey": "items.kickboard",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 400
+    },
+    {
+      "nameKey": "items.kites",
+      "categoryKey": "categories.categoryentertainment",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.knee.protection",
+      "categoryKey": "categories.categoryaccessories",
+      "estimatedWeight": 300
+    },
+    {
+      "nameKey": "items.knife",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.lantern",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 400
+    },
+    {
+      "nameKey": "items.laptop",
+      "categoryKey": "categories.categoryelectronics",
+      "estimatedWeight": 1300
+    },
+    {
+      "nameKey": "items.laptop.charger",
+      "categoryKey": "categories.categoryelectronics",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.laundry.bag",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 100
+    },
+    {
+      "nameKey": "items.layered.clothing",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 500
+    },
+    {
+      "nameKey": "items.layers",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 300
+    },
+    {
+      "nameKey": "items.led.lantern",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 300
+    },
+    {
+      "nameKey": "items.lens.cap",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 30
+    },
+    {
+      "nameKey": "items.lens.cleaning",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 50
+    },
+    {
+      "nameKey": "items.lens.filters",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 150
+    },
+    {
+      "nameKey": "items.leveling.pads",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.life.jacket",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 800
+    },
+    {
+      "nameKey": "items.light.jacket",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 350
+    },
+    {
+      "nameKey": "items.light.sweater",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 300
+    },
+    {
+      "nameKey": "items.lighter",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 50
+    },
+    {
+      "nameKey": "items.lightweight.clothing",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.lightweight.stove",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 300
+    },
+    {
+      "nameKey": "items.lip.balm",
+      "categoryKey": "categories.categorytoiletries",
+      "estimatedWeight": 15
+    },
+    {
+      "nameKey": "items.lip.balm.for.cold.weather",
+      "categoryKey": "categories.categoryhealth",
+      "estimatedWeight": 15
+    },
+    {
+      "nameKey": "items.lip.balm.with.spf",
+      "categoryKey": "categories.categorytoiletries",
+      "estimatedWeight": 20
+    },
+    {
+      "nameKey": "items.lithium.batteries",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 300
+    },
+    {
+      "nameKey": "items.local.currency",
+      "categoryKey": "categories.categorydocuments",
+      "estimatedWeight": 50
+    },
+    {
+      "nameKey": "items.local.sim.card",
+      "categoryKey": "categories.categoryelectronics",
+      "estimatedWeight": 2
+    },
+    {
+      "nameKey": "items.long.pants",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 400
+    },
+    {
+      "nameKey": "items.long.sleeve.shirts",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.long.sleeve.uv.shirt",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 150
+    },
+    {
+      "nameKey": "items.long.sleeves",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.long.sleevespants",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 300
+    },
+    {
+      "nameKey": "items.loungewear",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 300
+    },
+    {
+      "nameKey": "items.lug.wrench",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 1000
+    },
+    {
+      "nameKey": "items.luggage.scales",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 300
+    },
+    {
+      "nameKey": "items.luggage.tags",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 20
+    },
+    {
+      "nameKey": "items.magazine",
+      "categoryKey": "categories.categoryentertainment",
+      "estimatedWeight": 100
+    },
+    {
+      "nameKey": "items.makeup",
+      "categoryKey": "categories.categorytoiletries",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.mapsgps",
+      "categoryKey": "categories.categoryelectronics",
+      "estimatedWeight": 150
+    },
+    {
+      "nameKey": "items.matches",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 50
+    },
+    {
+      "nameKey": "items.medications",
+      "categoryKey": "categories.categoryhealth",
+      "estimatedWeight": 100
+    },
+    {
+      "nameKey": "items.meditation.cushion",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 800
+    },
+    {
+      "nameKey": "items.memory.cards",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 10
+    },
+    {
+      "nameKey": "items.merino.wool",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 250
+    },
+    {
+      "nameKey": "items.microspikes",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 400
+    },
+    {
+      "nameKey": "items.moisturizer",
+      "categoryKey": "categories.categorytoiletries",
+      "estimatedWeight": 50
+    },
+    {
+      "nameKey": "items.moleskin.pads",
+      "categoryKey": "categories.categoryhealth",
+      "estimatedWeight": 20
+    },
+    {
+      "nameKey": "items.money.belt",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 150
+    },
+    {
+      "nameKey": "items.mosquito.net",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 300
+    },
+    {
+      "nameKey": "items.motion.sickness.medication",
+      "categoryKey": "categories.categoryhealth",
+      "estimatedWeight": 30
+    },
+    {
+      "nameKey": "items.mountain.backpack",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 1200
+    },
+    {
+      "nameKey": "items.mouthwash",
+      "categoryKey": "categories.categorytoiletries",
+      "estimatedWeight": 150
+    },
+    {
+      "nameKey": "items.mud.boots",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 1200
+    },
+    {
+      "nameKey": "items.multi.tool",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.multiport.charger",
+      "categoryKey": "categories.categoryelectronics",
+      "estimatedWeight": 300
+    },
+    {
+      "nameKey": "items.muscle.rub",
+      "categoryKey": "categories.categoryhealth",
+      "estimatedWeight": 150
+    },
+    {
+      "nameKey": "items.nd.filter",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 100
+    },
+    {
+      "nameKey": "items.neck.gaiter",
+      "categoryKey": "categories.categoryaccessories",
+      "estimatedWeight": 50
+    },
+    {
+      "nameKey": "items.neck.pillow",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.neck.warmer",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 50
+    },
+    {
+      "nameKey": "items.noisecanceling.headphones",
+      "categoryKey": "categories.categoryelectronics",
+      "estimatedWeight": 300
+    },
+    {
+      "nameKey": "items.nonslip.socks",
+      "categoryKey": "categories.categoryother",
+      "estimatedWeight": 100
+    },
+    {
+      "nameKey": "items.nose.clips",
+      "categoryKey": "categories.categoryaccessories",
+      "estimatedWeight": 10
+    },
+    {
+      "nameKey": "items.notebook",
+      "categoryKey": "categories.categoryother",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.observing.chair",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 2000
+    },
+    {
+      "nameKey": "items.organizing.pouches",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.outdoor.blanket",
+      "categoryKey": "categories.categoryother",
+      "estimatedWeight": 800
+    },
+    {
+      "nameKey": "items.outdoor.pants",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 450
+    },
+    {
+      "nameKey": "items.overalls",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 600
+    },
+    {
+      "nameKey": "items.pacifier",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 25
+    },
+    {
+      "nameKey": "items.pack.cover",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 150
+    },
+    {
+      "nameKey": "items.packable.down.jacket",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 400
+    },
+    {
+      "nameKey": "items.packing.cubes",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 300
+    },
+    {
+      "nameKey": "items.paddle",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 800
+    },
+    {
+      "nameKey": "items.paddleboard",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 10000
+    },
+    {
+      "nameKey": "items.padlock",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 300
+    },
+    {
+      "nameKey": "items.pain.relief.medication",
+      "categoryKey": "categories.categoryhealth",
+      "estimatedWeight": 50
+    },
+    {
+      "nameKey": "items.pajamas",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.panniers",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 2000
+    },
+    {
+      "nameKey": "items.pants",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 400
+    },
+    {
+      "nameKey": "items.paracord",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.passport",
+      "categoryKey": "categories.categorydocuments",
+      "estimatedWeight": 50
+    },
+    {
+      "nameKey": "items.pen",
+      "categoryKey": "categories.categoryentertainment",
+      "estimatedWeight": 10
+    },
+    {
+      "nameKey": "items.perfumecologne",
+      "categoryKey": "categories.categorytoiletries",
+      "estimatedWeight": 100
+    },
+    {
+      "nameKey": "items.personal.blanket",
+      "categoryKey": "categories.categoryother",
+      "estimatedWeight": 600
+    },
+    {
+      "nameKey": "items.pet.bed",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 800
+    },
+    {
+      "nameKey": "items.pet.blanket",
+      "categoryKey": "categories.categoryother",
+      "estimatedWeight": 300
+    },
+    {
+      "nameKey": "items.pet.bowls",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 300
+    },
+    {
+      "nameKey": "items.pet.coat",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.pet.collar",
+      "categoryKey": "categories.categoryaccessories",
+      "estimatedWeight": 50
+    },
+    {
+      "nameKey": "items.pet.crate",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 5000
+    },
+    {
+      "nameKey": "items.pet.first.aid",
+      "categoryKey": "categories.categoryhealth",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.pet.food",
+      "categoryKey": "categories.categoryfood",
+      "estimatedWeight": 500
+    },
+    {
+      "nameKey": "items.pet.grooming.kit",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 300
+    },
+    {
+      "nameKey": "items.pet.harness",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.pet.leash",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 150
+    },
+    {
+      "nameKey": "items.pet.medications",
+      "categoryKey": "categories.categoryhealth",
+      "estimatedWeight": 150
+    },
+    {
+      "nameKey": "items.pet.ramp",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 3000
+    },
+    {
+      "nameKey": "items.pet.tag",
+      "categoryKey": "categories.categoryaccessories",
+      "estimatedWeight": 10
+    },
+    {
+      "nameKey": "items.pet.toys",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.pet.treats",
+      "categoryKey": "categories.categoryfood",
+      "estimatedWeight": 100
+    },
+    {
+      "nameKey": "items.pet.waste.bags",
+      "categoryKey": "categories.categoryother",
+      "estimatedWeight": 50
+    },
+    {
+      "nameKey": "items.pet.water.bottle",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 250
+    },
+    {
+      "nameKey": "items.pet.wipes",
+      "categoryKey": "categories.categorytoiletries",
+      "estimatedWeight": 80
+    },
+    {
+      "nameKey": "items.phone.charger",
+      "categoryKey": "categories.categoryelectronics",
+      "estimatedWeight": 50
+    },
+    {
+      "nameKey": "items.picnic.blanket",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 600
+    },
+    {
+      "nameKey": "items.plastic.bags",
+      "categoryKey": "categories.categoryother",
+      "estimatedWeight": 20
+    },
+    {
+      "nameKey": "items.pocket.knife",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 100
+    },
+    {
+      "nameKey": "items.polarized.sunglasses",
+      "categoryKey": "categories.categoryaccessories",
+      "estimatedWeight": 40
+    },
+    {
+      "nameKey": "items.polarizing.filter",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 150
+    },
+    {
+      "nameKey": "items.poncho",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 300
+    },
+    {
+      "nameKey": "items.portable.computer",
+      "categoryKey": "categories.categoryelectronics",
+      "estimatedWeight": 1000
+    },
+    {
+      "nameKey": "items.portable.fan",
+      "categoryKey": "categories.categoryelectronics",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.portfolio",
+      "categoryKey": "categories.categorydocuments",
+      "estimatedWeight": 500
+    },
+    {
+      "nameKey": "items.power.adapter",
+      "categoryKey": "categories.categoryelectronics",
+      "estimatedWeight": 150
+    },
+    {
+      "nameKey": "items.power.bank",
+      "categoryKey": "categories.categoryelectronics",
+      "estimatedWeight": 300
+    },
+    {
+      "nameKey": "items.power.cables",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 300
+    },
+    {
+      "nameKey": "items.power.inverter",
+      "categoryKey": "categories.categoryelectronics",
+      "estimatedWeight": 800
+    },
+    {
+      "nameKey": "items.power.station",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 8000
+    },
+    {
+      "nameKey": "items.power.tank",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 2000
+    },
+    {
+      "nameKey": "items.presentation.remote",
+      "categoryKey": "categories.categoryelectronics",
+      "estimatedWeight": 100
+    },
+    {
+      "nameKey": "items.professional.attire",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 500
+    },
+    {
+      "nameKey": "items.public.transport.card",
+      "categoryKey": "categories.categorydocuments",
+      "estimatedWeight": 5
+    },
+    {
+      "nameKey": "items.pull.buoy",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.quickdraws",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 800
+    },
+    {
+      "nameKey": "items.quickdry.clothes",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 250
+    },
+    {
+      "nameKey": "items.quickdry.clothing",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.quickdry.towel",
+      "categoryKey": "categories.categorytoiletries",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.rain.cover",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 300
+    },
+    {
+      "nameKey": "items.rain.gear",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 350
+    },
+    {
+      "nameKey": "items.rain.hat",
+      "categoryKey": "categories.categoryaccessories",
+      "estimatedWeight": 80
+    },
+    {
+      "nameKey": "items.rain.jacket",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 300
+    },
+    {
+      "nameKey": "items.rain.pants",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.rain.suit",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 600
+    },
+    {
+      "nameKey": "items.rangefinder",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 400
+    },
+    {
+      "nameKey": "items.rash.guard",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.razor",
+      "categoryKey": "categories.categorytoiletries",
+      "estimatedWeight": 20
+    },
+    {
+      "nameKey": "items.reclining.chair",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 2500
+    },
+    {
+      "nameKey": "items.red.filter",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 20
+    },
+    {
+      "nameKey": "items.red.light.flashlight",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 180
+    },
+    {
+      "nameKey": "items.reducer.flattener",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 300
+    },
+    {
+      "nameKey": "items.reflective.vest",
+      "categoryKey": "categories.categoryaccessories",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.reflector",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 300
+    },
+    {
+      "nameKey": "items.rehydration.salts",
+      "categoryKey": "categories.categoryhealth",
+      "estimatedWeight": 40
+    },
+    {
+      "nameKey": "items.remote.shutter",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 100
+    },
+    {
+      "nameKey": "items.rental.confirmation",
+      "categoryKey": "categories.categorydocuments",
+      "estimatedWeight": 10
+    },
+    {
+      "nameKey": "items.repair.kit",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 300
+    },
+    {
+      "nameKey": "items.reusable.water.bottle",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.robe",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 400
+    },
+    {
+      "nameKey": "items.rope",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 800
+    },
+    {
+      "nameKey": "items.running.belt",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.running.shoes",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 300
+    },
+    {
+      "nameKey": "items.running.watch",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 100
+    },
+    {
+      "nameKey": "items.safari.backpack",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 1800
+    },
+    {
+      "nameKey": "items.safari.hat",
+      "categoryKey": "categories.categoryaccessories",
+      "estimatedWeight": 120
+    },
+    {
+      "nameKey": "items.safari.jacket",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 400
+    },
+    {
+      "nameKey": "items.sand.anchor",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 800
+    },
+    {
+      "nameKey": "items.sand.toys",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 600
+    },
+    {
+      "nameKey": "items.sandals",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.sandfree.mat",
+      "categoryKey": "categories.categoryother",
+      "estimatedWeight": 600
+    },
+    {
+      "nameKey": "items.satellite.messenger",
+      "categoryKey": "categories.categoryelectronics",
+      "estimatedWeight": 250
+    },
+    {
+      "nameKey": "items.scarf",
+      "categoryKey": "categories.categoryaccessories",
+      "estimatedWeight": 100
+    },
+    {
+      "nameKey": "items.scuba.bcd",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 2000
+    },
+    {
+      "nameKey": "items.scuba.regulator",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 1200
+    },
+    {
+      "nameKey": "items.scuba.tank",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 15000
+    },
+    {
+      "nameKey": "items.sealed.containers",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 400
+    },
+    {
+      "nameKey": "items.seasonal.clothing",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 400
+    },
+    {
+      "nameKey": "items.seat.back.organizer",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 400
+    },
+    {
+      "nameKey": "items.seat.cushion",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 600
+    },
+    {
+      "nameKey": "items.sewing.kit",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.shampoo",
+      "categoryKey": "categories.categorytoiletries",
+      "estimatedWeight": 100
+    },
+    {
+      "nameKey": "items.shopping.bag",
+      "categoryKey": "categories.categoryother",
+      "estimatedWeight": 50
+    },
+    {
+      "nameKey": "items.shorts",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.shovel",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 1200
+    },
+    {
+      "nameKey": "items.signal.flare",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.signal.mirror",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 100
+    },
+    {
+      "nameKey": "items.sippy.cup",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 120
+    },
+    {
+      "nameKey": "items.sit.pad",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.ski.boots",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 2000
+    },
+    {
+      "nameKey": "items.ski.gloves",
+      "categoryKey": "categories.categoryaccessories",
+      "estimatedWeight": 120
+    },
+    {
+      "nameKey": "items.ski.goggles",
+      "categoryKey": "categories.categoryaccessories",
+      "estimatedWeight": 150
+    },
+    {
+      "nameKey": "items.ski.helmet",
+      "categoryKey": "categories.categoryaccessories",
+      "estimatedWeight": 500
+    },
+    {
+      "nameKey": "items.ski.jacket",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 800
+    },
+    {
+      "nameKey": "items.ski.lift.tickets",
+      "categoryKey": "categories.categorydocuments",
+      "estimatedWeight": 5
+    },
+    {
+      "nameKey": "items.ski.lock",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 400
+    },
+    {
+      "nameKey": "items.ski.pants",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 400
+    },
+    {
+      "nameKey": "items.ski.poles",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 600
+    },
+    {
+      "nameKey": "items.ski.socks",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 80
+    },
+    {
+      "nameKey": "items.ski.wax",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 100
+    },
+    {
+      "nameKey": "items.skis",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 3000
+    },
+    {
+      "nameKey": "items.sleep.mask",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 30
+    },
+    {
+      "nameKey": "items.sleeping.bag",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 1200
+    },
+    {
+      "nameKey": "items.sleeping.bag.liner",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 300
+    },
+    {
+      "nameKey": "items.sleeping.pad",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 600
+    },
+    {
+      "nameKey": "items.sleeping.pad.insulation",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 300
+    },
+    {
+      "nameKey": "items.sleepwear",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.slippers",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.snacks",
+      "categoryKey": "categories.categoryfood",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.snake.bite.kit",
+      "categoryKey": "categories.categoryhealth",
+      "estimatedWeight": 150
+    },
+    {
+      "nameKey": "items.sneakers",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 400
+    },
+    {
+      "nameKey": "items.snorkel",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.snow.brush",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 300
+    },
+    {
+      "nameKey": "items.snow.goggles",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.snowboard",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 2500
+    },
+    {
+      "nameKey": "items.snowboard.boots",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 1800
+    },
+    {
+      "nameKey": "items.snowboard.wax",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 100
+    },
+    {
+      "nameKey": "items.socks",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 50
+    },
+    {
+      "nameKey": "items.softshell.jacket",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 400
+    },
+    {
+      "nameKey": "items.solar.charger",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 600
+    },
+    {
+      "nameKey": "items.spare.clothing",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 350
+    },
+    {
+      "nameKey": "items.spare.tire",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 20000
+    },
+    {
+      "nameKey": "items.spare.tubes",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 300
+    },
+    {
+      "nameKey": "items.special.event.clothing",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 400
+    },
+    {
+      "nameKey": "items.spf.sunscreen",
+      "categoryKey": "categories.categorytoiletries",
+      "estimatedWeight": 120
+    },
+    {
+      "nameKey": "items.spotting.scope",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 1200
+    },
+    {
+      "nameKey": "items.star.chart",
+      "categoryKey": "categories.categorydocuments",
+      "estimatedWeight": 50
+    },
+    {
+      "nameKey": "items.star.diagonal",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.stomach.medicine",
+      "categoryKey": "categories.categoryhealth",
+      "estimatedWeight": 80
+    },
+    {
+      "nameKey": "items.stroller",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 8000
+    },
+    {
+      "nameKey": "items.strong.insect.repellent",
+      "categoryKey": "categories.categoryhealth",
+      "estimatedWeight": 150
+    },
+    {
+      "nameKey": "items.sun.hat",
+      "categoryKey": "categories.categoryaccessories",
+      "estimatedWeight": 80
+    },
+    {
+      "nameKey": "items.sun.protective.clothing",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 250
+    },
+    {
+      "nameKey": "items.sun.shade",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 1000
+    },
+    {
+      "nameKey": "items.sunglasses",
+      "categoryKey": "categories.categoryaccessories",
+      "estimatedWeight": 30
+    },
+    {
+      "nameKey": "items.sunscreen",
+      "categoryKey": "categories.categorytoiletries",
+      "estimatedWeight": 100
+    },
+    {
+      "nameKey": "items.support.bandages",
+      "categoryKey": "categories.categoryhealth",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.surf.booties",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 300
+    },
+    {
+      "nameKey": "items.surf.leash",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 150
+    },
+    {
+      "nameKey": "items.surf.wax",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 50
+    },
+    {
+      "nameKey": "items.surfboard",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 3000
+    },
+    {
+      "nameKey": "items.sweatshirt",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 350
+    },
+    {
+      "nameKey": "items.swim.bag",
+      "categoryKey": "categories.categoryother",
+      "estimatedWeight": 150
+    },
+    {
+      "nameKey": "items.swim.cap",
+      "categoryKey": "categories.categoryaccessories",
+      "estimatedWeight": 30
+    },
+    {
+      "nameKey": "items.swim.fins",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 600
+    },
+    {
+      "nameKey": "items.swim.timer",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 100
+    },
+    {
+      "nameKey": "items.swim.towel",
+      "categoryKey": "categories.categoryother",
+      "estimatedWeight": 350
+    },
+    {
+      "nameKey": "items.swimsuit",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 100
+    },
+    {
+      "nameKey": "items.tablet",
+      "categoryKey": "categories.categoryelectronics",
+      "estimatedWeight": 600
+    },
+    {
+      "nameKey": "items.tarp",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 600
+    },
+    {
+      "nameKey": "items.telephoto.lens",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 2000
+    },
+    {
+      "nameKey": "items.telescope",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 5000
+    },
+    {
+      "nameKey": "items.telescope.cover",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 300
+    },
+    {
+      "nameKey": "items.telescope.eyepieces",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.telescope.filters",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 150
+    },
+    {
+      "nameKey": "items.tennis.balls",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.tennis.racket",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 400
+    },
+    {
+      "nameKey": "items.tennis.shoes",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 400
+    },
+    {
+      "nameKey": "items.tent",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 2500
+    },
+    {
+      "nameKey": "items.tent.footprint",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 400
+    },
+    {
+      "nameKey": "items.tent.repair.kit",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 150
+    },
+    {
+      "nameKey": "items.tent.stakes",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.thermal.layers",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 300
+    },
+    {
+      "nameKey": "items.thermal.pad",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 300
+    },
+    {
+      "nameKey": "items.thermal.sleepwear",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 250
+    },
+    {
+      "nameKey": "items.thermal.socks",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 100
+    },
+    {
+      "nameKey": "items.thermal.underwear",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.thermometer",
+      "categoryKey": "categories.categoryhealth",
+      "estimatedWeight": 100
+    },
+    {
+      "nameKey": "items.thermos",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 600
+    },
+    {
+      "nameKey": "items.tick.remover",
+      "categoryKey": "categories.categoryhealth",
+      "estimatedWeight": 20
+    },
+    {
+      "nameKey": "items.ties",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 80
+    },
+    {
+      "nameKey": "items.tire.pressure.gauge",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.titanium.pot",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.toilet.paper",
+      "categoryKey": "categories.categorytoiletries",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.toiletry.bag",
+      "categoryKey": "categories.categorytoiletries",
+      "estimatedWeight": 150
+    },
+    {
+      "nameKey": "items.toothbrush",
+      "categoryKey": "categories.categorytoiletries",
+      "estimatedWeight": 20
+    },
+    {
+      "nameKey": "items.toothpaste",
+      "categoryKey": "categories.categorytoiletries",
+      "estimatedWeight": 100
+    },
+    {
+      "nameKey": "items.towel",
+      "categoryKey": "categories.categorytoiletries",
+      "estimatedWeight": 300
+    },
+    {
+      "nameKey": "items.toys",
+      "categoryKey": "categories.categoryentertainment",
+      "estimatedWeight": 500
+    },
+    {
+      "nameKey": "items.tracking.mount",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 5000
+    },
+    {
+      "nameKey": "items.trail.mix",
+      "categoryKey": "categories.categoryfood",
+      "estimatedWeight": 150
+    },
+    {
+      "nameKey": "items.travel.blanket",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 500
+    },
+    {
+      "nameKey": "items.travel.insurance",
+      "categoryKey": "categories.categorydocuments",
+      "estimatedWeight": 10
+    },
+    {
+      "nameKey": "items.travel.lock",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 150
+    },
+    {
+      "nameKey": "items.travel.medicine.kit",
+      "categoryKey": "categories.categoryhealth",
+      "estimatedWeight": 400
+    },
+    {
+      "nameKey": "items.travel.pillow",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 300
+    },
+    {
+      "nameKey": "items.trekking.poles",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 600
+    },
+    {
+      "nameKey": "items.trekking.poles.2",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 600
+    },
+    {
+      "nameKey": "items.tripod",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 2000
+    },
+    {
+      "nameKey": "items.tshirts",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 150
+    },
+    {
+      "nameKey": "items.twoway.radio",
+      "categoryKey": "categories.categoryelectronics",
+      "estimatedWeight": 350
+    },
+    {
+      "nameKey": "items.ultralight.tent",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 1000
+    },
+    {
+      "nameKey": "items.umbrella",
+      "categoryKey": "categories.categoryother",
+      "estimatedWeight": 400
+    },
+    {
+      "nameKey": "items.underwear",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 30
+    },
+    {
+      "nameKey": "items.universal.adapter",
+      "categoryKey": "categories.categoryelectronics",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.uv.protection",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 150
+    },
+    {
+      "nameKey": "items.vaccination.card",
+      "categoryKey": "categories.categoryhealth",
+      "estimatedWeight": 10
+    },
+    {
+      "nameKey": "items.visa",
+      "categoryKey": "categories.categorydocuments",
+      "estimatedWeight": 5
+    },
+    {
+      "nameKey": "items.vitamins",
+      "categoryKey": "categories.categoryhealth",
+      "estimatedWeight": 120
+    },
+    {
+      "nameKey": "items.walking.shoes",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 400
+    },
+    {
+      "nameKey": "items.walking.stick",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 400
+    },
+    {
+      "nameKey": "items.warm.boots",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 1500
+    },
+    {
+      "nameKey": "items.warm.clothing",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 800
+    },
+    {
+      "nameKey": "items.warm.gloves",
+      "categoryKey": "categories.categoryaccessories",
+      "estimatedWeight": 80
+    },
+    {
+      "nameKey": "items.warm.hat",
+      "categoryKey": "categories.categoryaccessories",
+      "estimatedWeight": 60
+    },
+    {
+      "nameKey": "items.warm.jacket",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 600
+    },
+    {
+      "nameKey": "items.warm.layers",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 500
+    },
+    {
+      "nameKey": "items.warm.socks",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 80
+    },
+    {
+      "nameKey": "items.watch",
+      "categoryKey": "categories.categoryaccessories",
+      "estimatedWeight": 100
+    },
+    {
+      "nameKey": "items.water",
+      "categoryKey": "categories.categoryfood",
+      "estimatedWeight": 1000
+    },
+    {
+      "nameKey": "items.water.bottle",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 150
+    },
+    {
+      "nameKey": "items.water.bucket",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 800
+    },
+    {
+      "nameKey": "items.water.collection.sheet",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.water.filter",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 300
+    },
+    {
+      "nameKey": "items.water.jugs",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 1000
+    },
+    {
+      "nameKey": "items.water.purification.system",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 800
+    },
+    {
+      "nameKey": "items.water.purification.tablets",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 100
+    },
+    {
+      "nameKey": "items.water.shoes",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 300
+    },
+    {
+      "nameKey": "items.waterproof.bag",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.waterproof.phone.case",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 100
+    },
+    {
+      "nameKey": "items.waterproof.pouch",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 150
+    },
+    {
+      "nameKey": "items.waterproof.shoes",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 500
+    },
+    {
+      "nameKey": "items.wax.comb",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 30
+    },
+    {
+      "nameKey": "items.weather.radio",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 400
+    },
+    {
+      "nameKey": "items.weatherproof.jacket",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 600
+    },
+    {
+      "nameKey": "items.wet.wipes",
+      "categoryKey": "categories.categorytoiletries",
+      "estimatedWeight": 100
+    },
+    {
+      "nameKey": "items.wetsuit",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 1000
+    },
+    {
+      "nameKey": "items.windbreaker",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 250
+    },
+    {
+      "nameKey": "items.windproof.clothing",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 400
+    },
+    {
+      "nameKey": "items.windproof.jacket",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 500
+    },
+    {
+      "nameKey": "items.windscreen",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 300
+    },
+    {
+      "nameKey": "items.winter.jacket",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 1000
+    },
+    {
+      "nameKey": "items.wool.socks",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 80
+    },
+    {
+      "nameKey": "items.work.boots",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 800
+    },
+    {
+      "nameKey": "items.work.gloves",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.wraps",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 100
+    },
+    {
+      "nameKey": "items.wrist.guards",
+      "categoryKey": "categories.categoryaccessories",
+      "estimatedWeight": 200
+    },
+    {
+      "nameKey": "items.yoga.blanket",
+      "categoryKey": "categories.categoryclothing",
+      "estimatedWeight": 400
+    },
+    {
+      "nameKey": "items.yoga.blocks",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 600
+    },
+    {
+      "nameKey": "items.yoga.mat",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 1000
+    },
+    {
+      "nameKey": "items.yoga.strap",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 150
+    },
+    {
+      "nameKey": "items.zinc.oxide",
+      "categoryKey": "categories.categorytoiletries",
+      "estimatedWeight": 100
+    }
+  ],
+  "categories": [
+    {
+      "nameKey": "categories.categoryclothing",
+      "icon": "tshirt",
+      "sortOrder": 1
+    },
+    {
+      "nameKey": "categories.categorytoiletries",
+      "icon": "drop",
+      "sortOrder": 2
+    },
+    {
+      "nameKey": "categories.categoryelectronics",
+      "icon": "bolt",
+      "sortOrder": 3
+    },
+    {
+      "nameKey": "categories.categorydocuments",
+      "icon": "doc",
+      "sortOrder": 4
+    },
+    {
+      "nameKey": "categories.categorygear",
+      "icon": "backpack",
+      "sortOrder": 5
+    },
+    {
+      "nameKey": "categories.categoryaccessories",
+      "icon": "sunglasses",
+      "sortOrder": 6
+    },
+    {
+      "nameKey": "categories.categoryhealth",
+      "icon": "cross.case",
+      "sortOrder": 7
+    },
+    {
+      "nameKey": "categories.categoryentertainment",
+      "icon": "book",
+      "sortOrder": 8
+    },
+    {
+      "nameKey": "categories.categoryfood",
+      "icon": "fork.knife",
+      "sortOrder": 9
+    },
+    {
+      "nameKey": "categories.categoryother",
+      "icon": "tray",
+      "sortOrder": 10
+    }
+  ],
+  "activityCategories": [
+    {
+      "nameKey": "activity_categories.seed.general",
+      "sortOrder": 0
+    },
+    {
+      "nameKey": "activity_categories.seed.travel",
+      "sortOrder": 1
+    },
+    {
+      "nameKey": "activity_categories.seed.destinations",
+      "sortOrder": 2
+    },
+    {
+      "nameKey": "activity_categories.seed.accommodation",
+      "sortOrder": 3
+    },
+    {
+      "nameKey": "activity_categories.seed.activities",
+      "sortOrder": 4
+    },
+    {
+      "nameKey": "activity_categories.seed.water.sports",
+      "sortOrder": 5
+    },
+    {
+      "nameKey": "activity_categories.seed.winter.sports",
+      "sortOrder": 6
+    },
+    {
+      "nameKey": "activity_categories.seed.social",
+      "sortOrder": 7
+    },
+    {
+      "nameKey": "activity_categories.seed.health.wellness",
+      "sortOrder": 8
+    },
+    {
+      "nameKey": "activity_categories.seed.weather",
+      "sortOrder": 9
+    }
+  ]
+}

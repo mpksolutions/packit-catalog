@@ -1,0 +1,5862 @@
+{
+  "version": 1,
+  "activities": [
+    {
+      "nameKey": "activities.seed.hotel",
+      "icon": "bed.double.fill",
+      "categoryKey": "activity_categories.seed.accommodation",
+      "sortOrder": 0,
+      "colorHex": "#FF9500",
+      "defaultItemKeys": [
+        "items.dressy.outfit",
+        "items.hotel.reservation",
+        "items.sunglasses",
+        "items.sunscreen",
+        "items.swimsuit"
+      ],
+      "suggestedItems": [
+        {
+          "itemKey": "items.formal.wear",
+          "priority": 0.9
+        },
+        {
+          "itemKey": "items.cocktail.dress",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.dress.shoes",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.phone.charger",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.dinner.jacket",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.cover.up",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.sun.hat",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.robe",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.credit.cards",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.medications",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.underwear",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.jewelry",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.slippers",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.body.lotion",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.activewear",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.camera",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.universal.adapter",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.packing.cubes",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.walking.shoes",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.comfortable.clothing",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.cash",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.socks",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.ties",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.face.mask",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.active.shoes",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.power.bank",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.designer.handbag",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.day.pack",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.water.bottle",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.hand.sanitizer",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.bookereader",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.camera.batteries",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.extensive.first.aid.kit",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.audiobook",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.laundry.bag",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.tablet",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.vitamins",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.magazine",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.headphones",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.special.event.clothing",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.formal.shoes",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.hair.accessories",
+          "priority": 0.55
+        },
+        {
+          "itemKey": "items.shopping.bag",
+          "priority": 0.55
+        },
+        {
+          "itemKey": "items.evening.bag",
+          "priority": 0.55
+        },
+        {
+          "itemKey": "items.journal",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.wraps",
+          "priority": 0.5
+        }
+      ]
+    },
+    {
+      "nameKey": "activities.seed.hostel",
+      "icon": "bed.bunk.fill",
+      "categoryKey": "activity_categories.seed.accommodation",
+      "sortOrder": 1,
+      "colorHex": "#FF2D55",
+      "defaultItemKeys": [
+        "items.earplugs.for.sleep",
+        "items.flip.flops",
+        "items.hostel.reservation",
+        "items.sleep.mask",
+        "items.sleepwear",
+        "items.toiletry.bag",
+        "items.travel.lock"
+      ],
+      "suggestedItems": [
+        {
+          "itemKey": "items.padlock",
+          "priority": 0.95
+        },
+        {
+          "itemKey": "items.towel",
+          "priority": 0.9
+        },
+        {
+          "itemKey": "items.phone.charger",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.backpack",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.reusable.water.bottle",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.toothbrush",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.toothpaste",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.shampoo",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.hand.sanitizer",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.laundry.bag",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.universal.adapter",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.comfortable.clothing",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.walking.shoes",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.cash",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.deodorant",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.socks",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.underwear",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.snacks",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.medications",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.sunscreen",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.sunglasses",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.extensive.first.aid.kit",
+          "priority": 0.65
+        }
+      ]
+    },
+    {
+      "nameKey": "activities.seed.rental",
+      "icon": "house.fill",
+      "categoryKey": "activity_categories.seed.accommodation",
+      "sortOrder": 2,
+      "colorHex": "#AF52DE",
+      "defaultItemKeys": [
+        "items.comfortable.clothing",
+        "items.host.contact.info",
+        "items.iddrivers.license",
+        "items.rental.confirmation",
+        "items.toiletry.bag"
+      ],
+      "suggestedItems": [
+        {
+          "itemKey": "items.phone.charger",
+          "priority": 0.9
+        },
+        {
+          "itemKey": "items.medications",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.toothbrush",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.toothpaste",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.reusable.water.bottle",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.sleepwear",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.laundry.bag",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.shampoo",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.deodorant",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.walking.shoes",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.credit.cards",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.cash",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.loungewear",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.packing.cubes",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.extensive.first.aid.kit",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.hand.sanitizer",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.layers",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.day.pack",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.universal.adapter",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.snacks",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.slippers",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.seasonal.clothing",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.sunglasses",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.sunscreen",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.power.bank",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.warm.clothing",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.local.sim.card",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.bookereader",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.umbrella",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.sun.hat",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.strong.insect.repellent",
+          "priority": 0.6
+        }
+      ]
+    },
+    {
+      "nameKey": "activities.seed.camping",
+      "icon": "tent.fill",
+      "categoryKey": "activity_categories.seed.accommodation",
+      "sortOrder": 3,
+      "colorHex": "#34C759",
+      "defaultItemKeys": [
+        "items.camp.stove",
+        "items.camping.food",
+        "items.extensive.first.aid.kit",
+        "items.fuel",
+        "items.headlamp",
+        "items.matches",
+        "items.multi.tool",
+        "items.sleeping.bag",
+        "items.sleeping.pad",
+        "items.tent",
+        "items.tent.stakes",
+        "items.water",
+        "items.water.bottle"
+      ],
+      "suggestedItems": [
+        {
+          "itemKey": "items.medications",
+          "priority": 0.95
+        },
+        {
+          "itemKey": "items.water.filter",
+          "priority": 0.9
+        },
+        {
+          "itemKey": "items.socks",
+          "priority": 0.9
+        },
+        {
+          "itemKey": "items.tshirts",
+          "priority": 0.9
+        },
+        {
+          "itemKey": "items.pants",
+          "priority": 0.9
+        },
+        {
+          "itemKey": "items.underwear",
+          "priority": 0.9
+        },
+        {
+          "itemKey": "items.toilet.paper",
+          "priority": 0.9
+        },
+        {
+          "itemKey": "items.emergency.medication",
+          "priority": 0.9
+        },
+        {
+          "itemKey": "items.garbage.bags",
+          "priority": 0.9
+        },
+        {
+          "itemKey": "items.tarp",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.cooking.pot",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.camping.utensils",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.water.purification.tablets",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.rain.jacket",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.long.sleeves",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.comfortable.shoes",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.toothbrush",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.toothpaste",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.wet.wipes",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.strong.insect.repellent",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.snacks",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.sunscreen",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.tent.footprint",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.camping.pillow",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.emergency.shelter",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.camping.cups",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.camp.knife",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.fire.starter",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.lighter",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.lantern",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.lithium.batteries",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.fleece",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.warm.socks",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.biodegradable.soap",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.deodorant",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.hand.sanitizer",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.towel",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.pain.relief.medication",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.emergency.whistle",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.duct.tape",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.backpack",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.dry.bags",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.plastic.bags",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.emergency.food",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.breakfast",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.emergency.supplies",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.blanket",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.guy.lines",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.can.opener",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.water.bucket",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.camp.shovel",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.camping.chair",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.flashlight",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.power.bank",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.phone.charger",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.rain.pants",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.thermal.underwear",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.hatcap",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.gloves",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.shorts",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.emergency.blanket",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.compass",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.mapsgps",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.rope",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.bear.canister",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.food.storage",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.coffee",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.electrolyte.supplements",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.lip.balm.with.spf",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.sunglasses",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.cash",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.mosquito.net",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.sleeping.bag.liner",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.coffee.press",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.camping.table",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.hatchet",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.tent.repair.kit",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.journal",
+          "priority": 0.4
+        }
+      ]
+    },
+    {
+      "nameKey": "activities.seed.hiking",
+      "icon": "figure.hiking",
+      "categoryKey": "activity_categories.seed.activities",
+      "sortOrder": 0,
+      "colorHex": "#34C759",
+      "defaultItemKeys": [
+        "items.day.pack",
+        "items.emergency.whistle",
+        "items.extensive.first.aid.kit",
+        "items.hatcap",
+        "items.hiking.boots",
+        "items.mapsgps",
+        "items.sunscreen",
+        "items.water.bottle"
+      ],
+      "suggestedItems": [
+        {
+          "itemKey": "items.compass",
+          "priority": 1
+        },
+        {
+          "itemKey": "items.headlamp",
+          "priority": 1
+        },
+        {
+          "itemKey": "items.trail.mix",
+          "priority": 1
+        },
+        {
+          "itemKey": "items.energy.bars",
+          "priority": 1
+        },
+        {
+          "itemKey": "items.rain.jacket",
+          "priority": 1
+        },
+        {
+          "itemKey": "items.medications",
+          "priority": 0.95
+        },
+        {
+          "itemKey": "items.multi.tool",
+          "priority": 0.9
+        },
+        {
+          "itemKey": "items.emergency.medication",
+          "priority": 0.9
+        },
+        {
+          "itemKey": "items.hiking.poles",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.emergency.blanket",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.flashlight",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.snacks",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.water.purification.tablets",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.fleece",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.warm.socks",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.tshirts",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.pants",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.underwear",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.pain.relief.medication",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.blister.treatment",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.moleskin.pads",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.strong.insect.repellent",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.backpack",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.sunglasses",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.power.bank",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.emergency.shelter",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.knife",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.rope",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.carabiner",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.emergency.food",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.hydration.bladder",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.water.filter",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.rain.pants",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.windbreaker",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.base.layers",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.thermal.underwear",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.quickdry.clothes",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.gloves",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.sun.hat",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.antiinflammatory.medication",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.hand.sanitizer",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.lip.balm",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.lip.balm.with.spf",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.backpack.cover",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.camera",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.phone.charger",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.waterproof.phone.case",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.emergency.beacon",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.signal.mirror",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.reflective.vest",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.paracord",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.repair.kit",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.iodine.tablets",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.thermal.socks",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.hiking.shoes",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.gaiters",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.warm.gloves",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.warm.hat",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.cash",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.satellite.messenger",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.binoculars",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.bandana",
+          "priority": 0.5
+        }
+      ]
+    },
+    {
+      "nameKey": "activities.seed.running",
+      "icon": "figure.run",
+      "categoryKey": "activity_categories.seed.activities",
+      "sortOrder": 1,
+      "colorHex": "#FF9500",
+      "defaultItemKeys": [
+        "items.reflective.vest",
+        "items.running.shoes",
+        "items.running.watch",
+        "items.water.bottle"
+      ],
+      "suggestedItems": [
+        {
+          "itemKey": "items.medications",
+          "priority": 0.95
+        },
+        {
+          "itemKey": "items.energy.gels",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.headlamp",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.hydration.belt",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.energy.bars",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.rain.jacket",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.hatcap",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.sunscreen",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.athletic.wear",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.socks",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.pain.relief.medication",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.antiinflammatory.medication",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.underwear",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.running.belt",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.windbreaker",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.sunglasses",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.gloves",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.flashlight",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.extensive.first.aid.kit",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.lip.balm",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.cash",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.tshirts",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.shorts",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.fleece",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.thermal.underwear",
+          "priority": 0.5
+        }
+      ]
+    },
+    {
+      "nameKey": "activities.seed.cycling",
+      "icon": "bicycle",
+      "categoryKey": "activity_categories.seed.activities",
+      "sortOrder": 2,
+      "colorHex": "#34C759",
+      "defaultItemKeys": [
+        "items.bicycle",
+        "items.bike.helmet",
+        "items.bike.lights",
+        "items.bike.pump",
+        "items.bike.repair.kit",
+        "items.water.bottle"
+      ],
+      "suggestedItems": [
+        {
+          "itemKey": "items.medications",
+          "priority": 0.95
+        },
+        {
+          "itemKey": "items.spare.tubes",
+          "priority": 0.9
+        },
+        {
+          "itemKey": "items.bike.lock",
+          "priority": 0.9
+        },
+        {
+          "itemKey": "items.emergency.medication",
+          "priority": 0.9
+        },
+        {
+          "itemKey": "items.bike.multitool",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.reflective.vest",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.backpack",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.cycling.shorts",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.cycling.gloves",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.rain.jacket",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.sunscreen",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.energy.bars",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.extensive.first.aid.kit",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.pain.relief.medication",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.panniers",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.bike.computer",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.cycling.jersey",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.sunglasses",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.windbreaker",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.lip.balm",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.cash",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.cycling.shoes",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.fleece",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.tshirts",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.shorts",
+          "priority": 0.5
+        }
+      ]
+    },
+    {
+      "nameKey": "activities.seed.climbing",
+      "icon": "figure.climbing",
+      "categoryKey": "activity_categories.seed.activities",
+      "sortOrder": 3,
+      "colorHex": "#FF3B30",
+      "defaultItemKeys": [
+        "items.belay.device",
+        "items.chalk.bag",
+        "items.climbing.chalk",
+        "items.climbing.harness",
+        "items.climbing.helmet",
+        "items.climbing.shoes",
+        "items.extensive.first.aid.kit",
+        "items.rope"
+      ],
+      "suggestedItems": [
+        {
+          "itemKey": "items.carabiner",
+          "priority": 0.95
+        },
+        {
+          "itemKey": "items.quickdraws",
+          "priority": 0.9
+        },
+        {
+          "itemKey": "items.emergency.medication",
+          "priority": 0.9
+        },
+        {
+          "itemKey": "items.climbing.cams",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.climbing.nuts",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.headlamp",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.pain.relief.medication",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.multi.tool",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.approach.shoes",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.windbreaker",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.rain.jacket",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.sunscreen",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.emergency.shelter",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.antiinflammatory.medication",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.backpack",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.fleece",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.sunglasses",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.hatcap",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.lip.balm",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.cash",
+          "priority": 0.6
+        }
+      ]
+    },
+    {
+      "nameKey": "activities.seed.fitness",
+      "icon": "dumbbell.fill",
+      "categoryKey": "activity_categories.seed.activities",
+      "sortOrder": 4,
+      "colorHex": "#FF9500",
+      "defaultItemKeys": [
+        "items.athletic.wear",
+        "items.sneakers",
+        "items.towel",
+        "items.water.bottle"
+      ],
+      "suggestedItems": [
+        {
+          "itemKey": "items.deodorant",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.tshirts",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.headphones",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.underwear",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.socks",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.shorts",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.gloves",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.medications",
+          "priority": 0.4
+        }
+      ]
+    },
+    {
+      "nameKey": "activities.seed.golf",
+      "icon": "figure.golf",
+      "categoryKey": "activity_categories.seed.activities",
+      "sortOrder": 5,
+      "colorHex": "#34C759",
+      "defaultItemKeys": [
+        "items.athletic.wear",
+        "items.backpack",
+        "items.gloves",
+        "items.golf.balls",
+        "items.golf.clubs",
+        "items.golf.shoes",
+        "items.golf.tees"
+      ],
+      "suggestedItems": [
+        {
+          "itemKey": "items.sunscreen",
+          "priority": 0.9
+        },
+        {
+          "itemKey": "items.towel",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.hatcap",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.sunglasses",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.rain.jacket",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.windbreaker",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.rangefinder",
+          "priority": 0.4
+        }
+      ]
+    },
+    {
+      "nameKey": "activities.seed.tennis",
+      "icon": "tennis.racket",
+      "categoryKey": "activity_categories.seed.activities",
+      "sortOrder": 6,
+      "colorHex": "#34C759",
+      "defaultItemKeys": [
+        "items.athletic.wear",
+        "items.shorts",
+        "items.socks",
+        "items.tennis.balls",
+        "items.tennis.racket",
+        "items.tennis.shoes",
+        "items.towel",
+        "items.water.bottle"
+      ],
+      "suggestedItems": [
+        {
+          "itemKey": "items.sunscreen",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.sunglasses",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.hatcap",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.wrist.guards",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.deodorant",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.medications",
+          "priority": 0.4
+        },
+        {
+          "itemKey": "items.pain.relief.medication",
+          "priority": 0.35
+        },
+        {
+          "itemKey": "items.cash",
+          "priority": 0.15
+        }
+      ]
+    },
+    {
+      "nameKey": "activities.seed.wildlife",
+      "icon": "binoculars.fill",
+      "categoryKey": "activity_categories.seed.activities",
+      "sortOrder": 7,
+      "colorHex": "#FF9500",
+      "defaultItemKeys": [
+        "items.binoculars",
+        "items.camera",
+        "items.day.pack",
+        "items.extensive.first.aid.kit",
+        "items.hatcap",
+        "items.strong.insect.repellent",
+        "items.passport",
+        "items.sunglasses",
+        "items.sunscreen",
+        "items.water.bottle"
+      ],
+      "suggestedItems": [
+        {
+          "itemKey": "items.medications",
+          "priority": 0.95
+        },
+        {
+          "itemKey": "items.khaki.clothing",
+          "priority": 0.9
+        },
+        {
+          "itemKey": "items.long.sleevespants",
+          "priority": 0.9
+        },
+        {
+          "itemKey": "items.emergency.medication",
+          "priority": 0.9
+        },
+        {
+          "itemKey": "items.power.bank",
+          "priority": 0.9
+        },
+        {
+          "itemKey": "items.telephoto.lens",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.earth.tones.clothing",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.quickdry.clothes",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.hiking.boots",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.safari.hat",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.antimalarial.medication",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.lip.balm.with.spf",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.multiport.charger",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.phone.charger",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.lithium.batteries",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.power.adapter",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.safari.backpack",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.dry.bags",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.cash",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.credit.cards",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.local.currency",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.multi.tool",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.tripod",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.camera.bag",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.convertible.pants",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.safari.jacket",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.gaiters",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.comfortable.walking.shoes",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.travel.medicine.kit",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.rehydration.salts",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.pain.relief.medication",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.stomach.medicine",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.aftersun.care",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.warm.jacket",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.solar.charger",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.satellite.messenger",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.insulated.water.bottle",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.flashlight",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.binocular.harness",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.lens.cleaning",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.sandals",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.neck.gaiter",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.gloves",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.antibiotics",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.thermometer",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.aloe.vera",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.rain.jacket",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.fleece",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.twoway.radio",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.water.purification.tablets",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.packing.cubes",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.headlamp",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.scarf",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.headphones",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.spotting.scope",
+          "priority": 0.4
+        },
+        {
+          "itemKey": "items.bookereader",
+          "priority": 0.4
+        }
+      ]
+    },
+    {
+      "nameKey": "activities.seed.stargazing",
+      "icon": "moon.stars.fill",
+      "categoryKey": "activity_categories.seed.activities",
+      "sortOrder": 8,
+      "colorHex": "#5856D6",
+      "defaultItemKeys": [
+        "items.blanket",
+        "items.red.light.flashlight",
+        "items.star.chart",
+        "items.telescope",
+        "items.tripod",
+        "items.warm.clothing"
+      ],
+      "suggestedItems": [
+        {
+          "itemKey": "items.medications",
+          "priority": 0.95
+        },
+        {
+          "itemKey": "items.telescope.eyepieces",
+          "priority": 0.9
+        },
+        {
+          "itemKey": "items.emergency.medication",
+          "priority": 0.9
+        },
+        {
+          "itemKey": "items.star.diagonal",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.finder.scope",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.binoculars",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.headlamp",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.lithium.batteries",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.thermal.underwear",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.insulated.clothing",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.fleece",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.warm.socks",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.warm.boots",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.warm.gloves",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.hatcap",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.hand.warmers",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.observing.chair",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.power.bank",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.telescope.filters",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.telescope.cover",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.astrophotography.camera",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.tracking.mount",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.power.tank",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.astronomy.binoculars",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.dim.red.light",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.down.jacket",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.windproof.clothing",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.balaclava",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.foot.warmers",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.personal.blanket",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.thermos",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.reclining.chair",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.camping.chair",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.power.station",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.power.cables",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.phone.charger",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.insulated.mug",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.barlow.lens",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.dew.shield",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.camera.mount",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.intervalometer",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.field.laptop",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.camera.lens",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.adjustable.red.light",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.red.filter",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.scarf",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.body.warmers",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.thermal.pad",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.sleeping.bag",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.ground.tarp",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.reducer.flattener",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.collimation.tools",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.astronomy.filter",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.heated.blanket",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.solar.charger",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.portable.computer",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.satellite.messenger",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.emergency.shelter",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.multi.tool",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.dry.bags",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.leveling.pads",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.windscreen",
+          "priority": 0.5
+        }
+      ]
+    },
+    {
+      "nameKey": "activities.seed.international",
+      "icon": "globe",
+      "categoryKey": "activity_categories.seed.destinations",
+      "sortOrder": 0,
+      "colorHex": "#007AFF",
+      "defaultItemKeys": [
+        "items.cash",
+        "items.passport",
+        "items.phone.charger"
+      ],
+      "suggestedItems": [
+        {
+          "itemKey": "items.visa",
+          "priority": 0.95
+        },
+        {
+          "itemKey": "items.vaccination.card",
+          "priority": 0.9
+        },
+        {
+          "itemKey": "items.universal.adapter",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.credit.cards",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.travel.insurance",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.foreign.currency",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.local.sim.card",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.money.belt",
+          "priority": 0.7
+        }
+      ]
+    },
+    {
+      "nameKey": "activities.seed.city.break",
+      "icon": "building.2.fill",
+      "categoryKey": "activity_categories.seed.destinations",
+      "sortOrder": 1,
+      "colorHex": "#5856D6",
+      "defaultItemKeys": [
+        "items.cash",
+        "items.casual.outfit",
+        "items.comfortable.shoes",
+        "items.day.pack",
+        "items.phone.charger",
+        "items.toothbrush"
+      ],
+      "suggestedItems": [
+        {
+          "itemKey": "items.walking.shoes",
+          "priority": 0.9
+        },
+        {
+          "itemKey": "items.credit.cards",
+          "priority": 0.9
+        },
+        {
+          "itemKey": "items.public.transport.card",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.foreign.currency",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.umbrella",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.sunglasses",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.rain.jacket",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.dress.shoes",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.money.belt",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.formal.wear",
+          "priority": 0.65
+        }
+      ]
+    },
+    {
+      "nameKey": "activities.seed.countryside",
+      "icon": "tree.fill",
+      "categoryKey": "activity_categories.seed.destinations",
+      "sortOrder": 2,
+      "colorHex": "#34C759",
+      "defaultItemKeys": [
+        "items.cash",
+        "items.casual.outfit",
+        "items.comfortable.shoes",
+        "items.strong.insect.repellent",
+        "items.rain.jacket",
+        "items.sunscreen",
+        "items.water.bottle"
+      ],
+      "suggestedItems": [
+        {
+          "itemKey": "items.hiking.boots",
+          "priority": 0.9
+        },
+        {
+          "itemKey": "items.outdoor.pants",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.weatherproof.jacket",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.bug.spray",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.sun.hat",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.layered.clothing",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.warm.layers",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.gps.device",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.car.charger",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.long.sleeve.shirts",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.long.pants",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.extensive.first.aid.kit",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.work.gloves",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.flashlight",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.power.bank",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.deodorant",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.phone.charger",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.wool.socks",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.tick.remover",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.work.boots",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.headlamp",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.pain.relief.medication",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.binoculars",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.gloves",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.umbrella",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.compass",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.insect.proof.clothing",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.after.bite.relief",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.thermos",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.host.gifts",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.walking.stick",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.antiseptic",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.multi.tool",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.mud.boots",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.thermal.underwear",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.cooler.bag",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.hiking.poles",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.pocket.knife",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.scarf",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.poncho",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.head.net",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.overalls",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.picnic.blanket",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.lantern",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.satellite.messenger",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.rope",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.solar.charger",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.warm.hat",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.snake.bite.kit",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.hammock",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.rain.pants",
+          "priority": 0.5
+        }
+      ]
+    },
+    {
+      "nameKey": "activities.seed.mountains",
+      "icon": "mountain.2.fill",
+      "categoryKey": "activity_categories.seed.destinations",
+      "sortOrder": 3,
+      "colorHex": "#34C759",
+      "defaultItemKeys": [
+        "items.altitude.sickness.medication",
+        "items.hiking.boots",
+        "items.layered.clothing",
+        "items.sunglasses",
+        "items.sunscreen",
+        "items.warm.clothing",
+        "items.water.bottle"
+      ],
+      "suggestedItems": [
+        {
+          "itemKey": "items.altitude.medication",
+          "priority": 0.95
+        },
+        {
+          "itemKey": "items.extensive.first.aid.kit",
+          "priority": 0.9
+        },
+        {
+          "itemKey": "items.insulated.jacket",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.weatherproof.jacket",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.thermal.underwear",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.thermal.layers",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.warm.hat",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.gloves",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.wool.socks",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.high.spf.sunscreen",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.headache.relief",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.windproof.jacket",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.thermal.socks",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.compass",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.glacier.glasses",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.insulated.water.bottle",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.emergency.beacon",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.rain.gear",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.gaiters",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.gps.device",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.hiking.poles",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.lip.balm.with.spf",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.satellite.messenger",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.day.pack",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.emergency.shelter",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.foot.care",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.blister.treatment",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.headlamp",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.emergency.blanket",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.microspikes",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.mountain.backpack",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.trekking.poles",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.hand.warmers",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.power.bank",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.pain.relief.medication",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.band.aids",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.weather.radio",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.twoway.radio",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.flashlight",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.antiseptic",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.sun.protective.clothing",
+          "priority": 0.55
+        },
+        {
+          "itemKey": "items.thermos",
+          "priority": 0.55
+        },
+        {
+          "itemKey": "items.chapped.lip.treatment",
+          "priority": 0.55
+        },
+        {
+          "itemKey": "items.antiinflammatory.medication",
+          "priority": 0.55
+        },
+        {
+          "itemKey": "items.neck.gaiter",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.face.mask",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.long.sleeve.uv.shirt",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.water.purification.tablets",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.solar.charger",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.emergency.radio",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.pack.cover",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.multi.tool",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.bivy.bag",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.body.warmers",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.muscle.rub",
+          "priority": 0.45
+        },
+        {
+          "itemKey": "items.sleeping.bag",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.thermal.pad",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.binoculars",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.rope",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.repair.kit",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.carabiner",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.sewing.kit",
+          "priority": 0.5
+        }
+      ]
+    },
+    {
+      "nameKey": "activities.seed.beach",
+      "icon": "beach.umbrella.fill",
+      "categoryKey": "activity_categories.seed.destinations",
+      "sortOrder": 3,
+      "colorHex": "#00C7BE",
+      "defaultItemKeys": [
+        "items.flip.flops",
+        "items.hatcap",
+        "items.sunglasses",
+        "items.sunscreen",
+        "items.swimsuit"
+      ],
+      "suggestedItems": [
+        {
+          "itemKey": "items.beach.towel",
+          "priority": 0.95
+        },
+        {
+          "itemKey": "items.water.bottle",
+          "priority": 0.95
+        },
+        {
+          "itemKey": "items.beach.bag",
+          "priority": 0.9
+        },
+        {
+          "itemKey": "items.lip.balm.with.spf",
+          "priority": 0.9
+        },
+        {
+          "itemKey": "items.emergency.medication",
+          "priority": 0.9
+        },
+        {
+          "itemKey": "items.beach.umbrella",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.beach.chair",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.sand.anchor",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.cooler",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.aloe.vera",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.uv.protection",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.waterproof.phone.case",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.cover.up",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.medications",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.beach.tent",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.sandfree.mat",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.outdoor.blanket",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.aftersun.care",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.snorkel",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.sand.toys",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.beach.games",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.frisbee",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.bookereader",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.waterproof.bag",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.pain.relief.medication",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.phone.charger",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.cash",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.rash.guard",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.water.shoes",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.swim.fins",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.boogie.board",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.goggles",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.beach.volleyball",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.bluetooth.speaker",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.dry.bags",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.life.jacket",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.power.bank",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.credit.cards",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.kites",
+          "priority": 0.5
+        }
+      ]
+    },
+    {
+      "nameKey": "activities.seed.desert",
+      "icon": "sun.dust.fill",
+      "categoryKey": "activity_categories.seed.destinations",
+      "sortOrder": 5,
+      "colorHex": "#FF9500",
+      "defaultItemKeys": [
+        "items.hat",
+        "items.hiking.boots",
+        "items.sunglasses",
+        "items.sunscreen",
+        "items.water.bottle"
+      ],
+      "suggestedItems": [
+        {
+          "itemKey": "items.gps.device",
+          "priority": 0.95
+        },
+        {
+          "itemKey": "items.satellite.messenger",
+          "priority": 0.95
+        },
+        {
+          "itemKey": "items.heat.stroke.treatment",
+          "priority": 0.95
+        },
+        {
+          "itemKey": "items.rehydration.salts",
+          "priority": 0.9
+        },
+        {
+          "itemKey": "items.lip.balm.with.spf",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.extensive.first.aid.kit",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.long.sleevespants",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.water.purification.system",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.emergency.shelter",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.uv.protection",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.compass",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.water.jugs",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.water.collection.sheet",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.breathable.clothing.2",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.quickdry.clothing",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.signal.flare",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.headlamp",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.multi.tool",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.aftersun.care",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.emergency.beacon",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.collapsible.water.bag",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.waterproof.bag",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.power.bank",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.iodine.tablets",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.water.purification.tablets",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.ultralight.tent",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.gaiters",
+          "priority": 0.55
+        },
+        {
+          "itemKey": "items.ground.cloth",
+          "priority": 0.55
+        },
+        {
+          "itemKey": "items.blister.treatment",
+          "priority": 0.55
+        },
+        {
+          "itemKey": "items.cooling.towels",
+          "priority": 0.55
+        },
+        {
+          "itemKey": "items.hydration.bladder",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.lightweight.stove",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.fuel.canister",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.sleeping.pad.insulation",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.tent.stakes",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.sealed.containers",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.repair.kit",
+          "priority": 0.45
+        },
+        {
+          "itemKey": "items.pain.relief.medication",
+          "priority": 0.45
+        },
+        {
+          "itemKey": "items.antiinflammatory.medication",
+          "priority": 0.45
+        },
+        {
+          "itemKey": "items.lithium.batteries",
+          "priority": 0.45
+        },
+        {
+          "itemKey": "items.sandals",
+          "priority": 0.4
+        },
+        {
+          "itemKey": "items.titanium.pot",
+          "priority": 0.4
+        },
+        {
+          "itemKey": "items.shovel",
+          "priority": 0.4
+        },
+        {
+          "itemKey": "items.knife",
+          "priority": 0.4
+        },
+        {
+          "itemKey": "items.emergency.bivy",
+          "priority": 0.4
+        },
+        {
+          "itemKey": "items.flagging",
+          "priority": 0.35
+        },
+        {
+          "itemKey": "items.guy.lines",
+          "priority": 0.35
+        },
+        {
+          "itemKey": "items.paracord",
+          "priority": 0.35
+        },
+        {
+          "itemKey": "items.organizing.pouches",
+          "priority": 0.35
+        },
+        {
+          "itemKey": "items.light.jacket",
+          "priority": 0.3
+        },
+        {
+          "itemKey": "items.windscreen",
+          "priority": 0.3
+        },
+        {
+          "itemKey": "items.strong.insect.repellent",
+          "priority": 0.3
+        },
+        {
+          "itemKey": "items.led.lantern",
+          "priority": 0.3
+        },
+        {
+          "itemKey": "items.sit.pad",
+          "priority": 0.3
+        }
+      ]
+    },
+    {
+      "nameKey": "activities.seed.snow",
+      "icon": "snowflake",
+      "categoryKey": "activity_categories.seed.destinations",
+      "sortOrder": 6,
+      "colorHex": "#007AFF",
+      "defaultItemKeys": [
+        "items.balaclava",
+        "items.gloves",
+        "items.thermal.underwear",
+        "items.warm.boots",
+        "items.winter.jacket",
+        "items.wool.socks"
+      ],
+      "suggestedItems": [
+        {
+          "itemKey": "items.satellite.messenger",
+          "priority": 0.95
+        },
+        {
+          "itemKey": "items.extensive.first.aid.kit",
+          "priority": 0.9
+        },
+        {
+          "itemKey": "items.cold.weather.medicine",
+          "priority": 0.9
+        },
+        {
+          "itemKey": "items.gps.device",
+          "priority": 0.9
+        },
+        {
+          "itemKey": "items.emergency.shelter",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.emergency.bivy",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.hat",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.body.warmers",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.spare.clothing",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.headlamp",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.down.jacket",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.packable.down.jacket",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.insulated.clothing",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.hardshell.jacket",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.insulated.boots",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.snow.goggles",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.compass",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.signal.flare",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.lightweight.stove",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.fuel.canister",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.multi.tool",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.power.bank",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.lithium.batteries",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.pain.relief.medication",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.waterproof.bag",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.lighter",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.softshell.jacket",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.windproof.clothing",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.breathable.rain.gear",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.gaiters",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.thermal.pad",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.sleeping.pad.insulation",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.emergency.beacon",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.knife",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.batteries",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.antiinflammatory.medication",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.medications",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.sealed.containers",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.fire.steel",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.thermal.socks",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.clothing.liners",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.merino.wool",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.microspikes",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.tent.stakes",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.guy.lines",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.windscreen",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.flagging",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.twoway.radio",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.titanium.pot",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.hydration.bladder",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.repair.kit",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.shovel",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.led.lantern",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.blister.treatment",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.lip.balm.for.cold.weather",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.hand.warmers",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.collapsible.water.bag",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.paracord",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.rehydration.salts",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.organizing.pouches",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.desiccant.packs",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.foot.warmers",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.water.purification.tablets",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.carabiner",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.trekking.poles.2",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.sit.pad",
+          "priority": 0.6
+        }
+      ]
+    },
+    {
+      "nameKey": "activities.seed.overnight",
+      "icon": "moon.fill",
+      "categoryKey": "activity_categories.seed.general",
+      "sortOrder": 0,
+      "colorHex": "#5856D6",
+      "defaultItemKeys": [
+        "items.change.of.clothes",
+        "items.pajamas",
+        "items.phone.charger",
+        "items.toothbrush",
+        "items.toothpaste"
+      ],
+      "suggestedItems": [
+        {
+          "itemKey": "items.contact.lenses",
+          "priority": 0.95
+        },
+        {
+          "itemKey": "items.glasses",
+          "priority": 0.95
+        },
+        {
+          "itemKey": "items.medications",
+          "priority": 0.9
+        },
+        {
+          "itemKey": "items.underwear",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.socks",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.deodorant",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.body.wash",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.shampoo",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.razor",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.travel.pillow",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.sleep.mask",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.earplugs.for.sleep",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.slippers",
+          "priority": 0.45
+        },
+        {
+          "itemKey": "items.power.bank",
+          "priority": 0.4
+        },
+        {
+          "itemKey": "items.bookereader",
+          "priority": 0.3
+        }
+      ]
+    },
+    {
+      "nameKey": "activities.seed.kids",
+      "icon": "figure.and.child.holdinghands",
+      "categoryKey": "activity_categories.seed.general",
+      "sortOrder": 1,
+      "colorHex": "#FF2D55",
+      "defaultItemKeys": [
+        "items.change.of.clothes",
+        "items.medications",
+        "items.toys",
+        "items.wet.wipes"
+      ],
+      "suggestedItems": [
+        {
+          "itemKey": "items.diapers",
+          "priority": 0.95
+        },
+        {
+          "itemKey": "items.baby.bottle",
+          "priority": 0.9
+        },
+        {
+          "itemKey": "items.car.seat",
+          "priority": 0.9
+        },
+        {
+          "itemKey": "items.pacifier",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.changing.pad",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.sippy.cup",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.sunscreen",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.blanket",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.extensive.first.aid.kit",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.stroller",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.crayons",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.coloring.books",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.games",
+          "priority": 0.6
+        }
+      ]
+    },
+    {
+      "nameKey": "activities.seed.pets",
+      "icon": "pawprint.fill",
+      "categoryKey": "activity_categories.seed.general",
+      "sortOrder": 2,
+      "colorHex": "#34C759",
+      "defaultItemKeys": [
+        "items.pet.bowls",
+        "items.pet.food",
+        "items.pet.leash"
+      ],
+      "suggestedItems": [
+        {
+          "itemKey": "items.pet.tag",
+          "priority": 0.95
+        },
+        {
+          "itemKey": "items.pet.waste.bags",
+          "priority": 0.9
+        },
+        {
+          "itemKey": "items.pet.collar",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.pet.harness",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.extra.pet.leash",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.pet.medications",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.pet.treats",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.pet.water.bottle",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.pet.blanket",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.pet.toys",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.pet.first.aid",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.pet.crate",
+          "priority": 0.55
+        },
+        {
+          "itemKey": "items.pet.wipes",
+          "priority": 0.55
+        },
+        {
+          "itemKey": "items.pet.grooming.kit",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.flea.treatment",
+          "priority": 0.45
+        },
+        {
+          "itemKey": "items.pet.bed",
+          "priority": 0.4
+        },
+        {
+          "itemKey": "items.pet.coat",
+          "priority": 0.35
+        },
+        {
+          "itemKey": "items.pet.ramp",
+          "priority": 0.3
+        }
+      ]
+    },
+    {
+      "nameKey": "activities.seed.photography",
+      "icon": "camera.fill",
+      "categoryKey": "activity_categories.seed.general",
+      "sortOrder": 3,
+      "colorHex": "#007AFF",
+      "defaultItemKeys": [
+        "items.camera",
+        "items.camera.bag",
+        "items.camera.batteries",
+        "items.camera.lens",
+        "items.memory.cards"
+      ],
+      "suggestedItems": [
+        {
+          "itemKey": "items.lens.cap",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.lens.cleaning",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.power.bank",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.tripod",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.camera.strap",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.lens.filters",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.polarizing.filter",
+          "priority": 0.45
+        },
+        {
+          "itemKey": "items.nd.filter",
+          "priority": 0.45
+        },
+        {
+          "itemKey": "items.remote.shutter",
+          "priority": 0.4
+        },
+        {
+          "itemKey": "items.camera.rain.cover",
+          "priority": 0.35
+        },
+        {
+          "itemKey": "items.reflector",
+          "priority": 0.25
+        },
+        {
+          "itemKey": "items.drone",
+          "priority": 0.2
+        }
+      ]
+    },
+    {
+      "nameKey": "activities.seed.work",
+      "icon": "laptopcomputer",
+      "categoryKey": "activity_categories.seed.general",
+      "sortOrder": 4,
+      "colorHex": "#007AFF",
+      "defaultItemKeys": [
+        "items.laptop",
+        "items.laptop.charger",
+        "items.notebook",
+        "items.pen",
+        "items.phone.charger"
+      ],
+      "suggestedItems": [
+        {
+          "itemKey": "items.professional.attire",
+          "priority": 0.9
+        },
+        {
+          "itemKey": "items.presentation.remote",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.hdmi.cable",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.power.bank",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.business.cards",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.tablet",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.watch",
+          "priority": 0.55
+        },
+        {
+          "itemKey": "items.portfolio",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.credit.cards",
+          "priority": 0.4
+        }
+      ]
+    },
+    {
+      "nameKey": "activities.seed.spa",
+      "icon": "leaf.fill",
+      "categoryKey": "activity_categories.seed.health.wellness",
+      "sortOrder": 0,
+      "colorHex": "#00C7BE",
+      "defaultItemKeys": [
+        "items.swimsuit",
+        "items.water.bottle"
+      ],
+      "suggestedItems": [
+        {
+          "itemKey": "items.phone.charger",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.deodorant",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.bookereader",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.sleep.mask",
+          "priority": 0.55
+        },
+        {
+          "itemKey": "items.medications",
+          "priority": 0.5
+        }
+      ]
+    },
+    {
+      "nameKey": "activities.seed.yoga",
+      "icon": "figure.yoga",
+      "categoryKey": "activity_categories.seed.health.wellness",
+      "sortOrder": 1,
+      "colorHex": "#AF52DE",
+      "defaultItemKeys": [
+        "items.athletic.wear",
+        "items.towel",
+        "items.water.bottle",
+        "items.yoga.mat"
+      ],
+      "suggestedItems": [
+        {
+          "itemKey": "items.deodorant",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.phone.charger",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.yoga.blocks",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.medications",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.yoga.strap",
+          "priority": 0.4
+        },
+        {
+          "itemKey": "items.meditation.cushion",
+          "priority": 0.4
+        },
+        {
+          "itemKey": "items.yoga.blanket",
+          "priority": 0.35
+        }
+      ]
+    },
+    {
+      "nameKey": "activities.seed.hospital",
+      "icon": "cross.fill",
+      "categoryKey": "activity_categories.seed.health.wellness",
+      "sortOrder": 2,
+      "colorHex": "#FF3B30",
+      "defaultItemKeys": [
+        "items.comfortable.clothes",
+        "items.hospital.bag",
+        "items.id",
+        "items.insurance.card",
+        "items.medications"
+      ],
+      "suggestedItems": [
+        {
+          "itemKey": "items.emergency.medication",
+          "priority": 0.95
+        },
+        {
+          "itemKey": "items.phone.charger",
+          "priority": 0.9
+        },
+        {
+          "itemKey": "items.glasses",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.deodorant",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.pajamas",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.slippers",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.reusable.water.bottle",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.toothbrush",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.toothpaste",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.personal.blanket",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.travel.pillow",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.robe",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.nonslip.socks",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.headphones",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.bookereader",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.pain.relief.medication",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.contact.lenses",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.cash",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.credit.cards",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.eye.mask",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.ear.plugs",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.dental.floss",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.mouthwash",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.comfort.item",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.antiinflammatory.medication",
+          "priority": 0.55
+        },
+        {
+          "itemKey": "items.moisturizer",
+          "priority": 0.55
+        },
+        {
+          "itemKey": "items.support.bandages",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.ice.packhot.pack",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.vitamins",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.laptop",
+          "priority": 0.4
+        },
+        {
+          "itemKey": "items.laptop.charger",
+          "priority": 0.4
+        }
+      ]
+    },
+    {
+      "nameKey": "activities.seed.nightlife",
+      "icon": "wineglass.fill",
+      "categoryKey": "activity_categories.seed.social",
+      "sortOrder": 0,
+      "colorHex": "#007AFF",
+      "defaultItemKeys": [
+        "items.cash",
+        "items.id",
+        "items.phone.charger"
+      ],
+      "suggestedItems": [
+        {
+          "itemKey": "items.credit.cards",
+          "priority": 0.9
+        },
+        {
+          "itemKey": "items.dressy.outfit",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.dress.shoes",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.light.jacket",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.evening.bag",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.perfumecologne",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.makeup",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.jewelry",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.power.bank",
+          "priority": 0.55
+        },
+        {
+          "itemKey": "items.sunglasses",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.umbrella",
+          "priority": 0.45
+        }
+      ]
+    },
+    {
+      "nameKey": "activities.seed.festival",
+      "icon": "tent.2.fill",
+      "categoryKey": "activity_categories.seed.social",
+      "sortOrder": 1,
+      "colorHex": "#FF2D55",
+      "defaultItemKeys": [
+        "items.cash",
+        "items.comfortable.shoes",
+        "items.phone.charger",
+        "items.water.bottle"
+      ],
+      "suggestedItems": [
+        {
+          "itemKey": "items.sunscreen",
+          "priority": 0.9
+        },
+        {
+          "itemKey": "items.backpack",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.power.bank",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.medications",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.rain.gear",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.layered.clothing",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.sunglasses",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.sun.hat",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.ear.plugs",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.warm.layers",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.blanket",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.camping.chair",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.camera",
+          "priority": 0.45
+        },
+        {
+          "itemKey": "items.pain.relief.medication",
+          "priority": 0.4
+        },
+        {
+          "itemKey": "items.extensive.first.aid.kit",
+          "priority": 0.35
+        },
+        {
+          "itemKey": "items.festival.wristband",
+          "priority": 0.2
+        }
+      ]
+    },
+    {
+      "nameKey": "activities.seed.wedding",
+      "icon": "heart.fill",
+      "categoryKey": "activity_categories.seed.social",
+      "sortOrder": 2,
+      "colorHex": "#007AFF",
+      "defaultItemKeys": [
+        "items.cash",
+        "items.formal.wear",
+        "items.formal.shoes",
+        "items.phone.charger"
+      ],
+      "suggestedItems": [
+        {
+          "itemKey": "items.cocktail.dress",
+          "priority": 0.9
+        },
+        {
+          "itemKey": "items.dinner.jacket",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.dress.shoes",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.jewelry",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.ties",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.evening.bag",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.camera",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.makeup",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.perfumecologne",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.hair.accessories",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.power.bank",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.umbrella",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.sunglasses",
+          "priority": 0.55
+        },
+        {
+          "itemKey": "items.light.jacket",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.change.of.clothes",
+          "priority": 0.45
+        }
+      ]
+    },
+    {
+      "nameKey": "activities.seed.conference",
+      "icon": "briefcase.fill",
+      "categoryKey": "activity_categories.seed.social",
+      "sortOrder": 3,
+      "colorHex": "#007AFF",
+      "defaultItemKeys": [
+        "items.business.cards",
+        "items.laptop",
+        "items.laptop.charger",
+        "items.notebook",
+        "items.pen",
+        "items.phone.charger",
+        "items.professional.attire"
+      ],
+      "suggestedItems": [
+        {
+          "itemKey": "items.presentation.remote",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.power.bank",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.hdmi.cable",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.tablet",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.portfolio",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.watch",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.headphones",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.charging.cable",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.universal.adapter",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.credit.cards",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.cash",
+          "priority": 0.55
+        },
+        {
+          "itemKey": "items.medications",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.water.bottle",
+          "priority": 0.5
+        }
+      ]
+    },
+    {
+      "nameKey": "activities.seed.flight",
+      "icon": "airplane",
+      "categoryKey": "activity_categories.seed.travel",
+      "sortOrder": 0,
+      "colorHex": "#007AFF",
+      "defaultItemKeys": [
+        "items.medications",
+        "items.passport",
+        "items.phone.charger",
+        "items.toothbrush"
+      ],
+      "suggestedItems": [
+        {
+          "itemKey": "items.power.bank",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.charging.cable",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.travel.lock",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.compression.socks",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.water.bottle",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.luggage.tags",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.noisecanceling.headphones",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.sleep.mask",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.neck.pillow",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.clear.bags",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.earplugs.for.sleep",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.lip.balm",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.toiletry.bag",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.travel.blanket",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.motion.sickness.medication",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.luggage.scales",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.tablet",
+          "priority": 0.55
+        },
+        {
+          "itemKey": "items.bookereader",
+          "priority": 0.5
+        }
+      ]
+    },
+    {
+      "nameKey": "activities.seed.roadtrip",
+      "icon": "car.fill",
+      "categoryKey": "activity_categories.seed.travel",
+      "sortOrder": 1,
+      "colorHex": "#007AFF",
+      "defaultItemKeys": [
+        "items.extensive.first.aid.kit",
+        "items.phone.charger",
+        "items.water.bottle"
+      ],
+      "suggestedItems": [
+        {
+          "itemKey": "items.spare.tire",
+          "priority": 0.95
+        },
+        {
+          "itemKey": "items.emergency.kit",
+          "priority": 0.9
+        },
+        {
+          "itemKey": "items.car.jack",
+          "priority": 0.9
+        },
+        {
+          "itemKey": "items.jumper.cables",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.lug.wrench",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.gps.device",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.car.charger",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.tire.pressure.gauge",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.emergency.triangles",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.flashlight",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.reflective.vest",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.power.inverter",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.cash",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.umbrella",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.headlamp",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.emergency.blanket",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.seat.cushion",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.cooler",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.funnel",
+          "priority": 0.55
+        },
+        {
+          "itemKey": "items.sun.shade",
+          "priority": 0.55
+        },
+        {
+          "itemKey": "items.neck.pillow",
+          "priority": 0.55
+        },
+        {
+          "itemKey": "items.ice.scraper",
+          "priority": 0.55
+        },
+        {
+          "itemKey": "items.snow.brush",
+          "priority": 0.55
+        },
+        {
+          "itemKey": "items.travel.blanket",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.seat.back.organizer",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.thermos",
+          "priority": 0.5
+        }
+      ]
+    },
+    {
+      "nameKey": "activities.seed.cruise",
+      "icon": "ferry.fill",
+      "categoryKey": "activity_categories.seed.travel",
+      "sortOrder": 2,
+      "colorHex": "#007AFF",
+      "defaultItemKeys": [
+        "items.motion.sickness.medication",
+        "items.phone.charger",
+        "items.sunscreen",
+        "items.swimsuit"
+      ],
+      "suggestedItems": [
+        {
+          "itemKey": "items.passport",
+          "priority": 0.95
+        },
+        {
+          "itemKey": "items.spf.sunscreen",
+          "priority": 0.9
+        },
+        {
+          "itemKey": "items.medications",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.sunglasses",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.sun.hat",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.water.bottle",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.beach.towel",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.deodorant",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.flip.flops",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.hanging.organizer",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.day.pack",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.cash",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.credit.cards",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.formal.wear",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.waterproof.phone.case",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.emergency.cash",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.windbreaker",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.dress.shoes",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.cocktail.dress",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.dinner.jacket",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.light.sweater",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.headphones",
+          "priority": 0.55
+        },
+        {
+          "itemKey": "items.jewelry",
+          "priority": 0.55
+        },
+        {
+          "itemKey": "items.makeup",
+          "priority": 0.55
+        },
+        {
+          "itemKey": "items.bookereader",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.dress.watch",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.perfumecologne",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.ties",
+          "priority": 0.45
+        },
+        {
+          "itemKey": "items.binoculars",
+          "priority": 0.45
+        }
+      ]
+    },
+    {
+      "nameKey": "activities.seed.swimming",
+      "icon": "figure.pool.swim",
+      "categoryKey": "activity_categories.seed.water.sports",
+      "sortOrder": 0,
+      "colorHex": "#00C7BE",
+      "defaultItemKeys": [
+        "items.goggles",
+        "items.swimsuit",
+        "items.swim.towel",
+        "items.water.bottle"
+      ],
+      "suggestedItems": [
+        {
+          "itemKey": "items.sunscreen",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.life.jacket",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.swim.cap",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.swim.bag",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.medications",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.water.shoes",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.swim.fins",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.waterproof.phone.case",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.sunglasses",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.kickboard",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.pull.buoy",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.extensive.first.aid.kit",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.cash",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.nose.clips",
+          "priority": 0.4
+        },
+        {
+          "itemKey": "items.ear.plugs",
+          "priority": 0.4
+        },
+        {
+          "itemKey": "items.swim.timer",
+          "priority": 0.35
+        }
+      ]
+    },
+    {
+      "nameKey": "activities.seed.skiing",
+      "icon": "figure.skiing.downhill",
+      "categoryKey": "activity_categories.seed.water.sports",
+      "sortOrder": 0,
+      "colorHex": "#5856D6",
+      "defaultItemKeys": [
+        "items.ski.boots",
+        "items.ski.gloves",
+        "items.ski.goggles",
+        "items.ski.helmet",
+        "items.ski.jacket",
+        "items.ski.lift.tickets",
+        "items.ski.pants",
+        "items.skis",
+        "items.ski.poles"
+      ],
+      "suggestedItems": [
+        {
+          "itemKey": "items.medications",
+          "priority": 0.95
+        },
+        {
+          "itemKey": "items.base.layers",
+          "priority": 0.9
+        },
+        {
+          "itemKey": "items.emergency.medication",
+          "priority": 0.9
+        },
+        {
+          "itemKey": "items.ski.socks",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.sunscreen",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.fleece",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.thermal.underwear",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.sunglasses",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.water.bottle",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.lip.balm.for.cold.weather",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.hand.warmers",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.foot.warmers",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.energy.bars",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.antiinflammatory.medication",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.pain.relief.medication",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.ski.lock",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.neck.warmer",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.windbreaker",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.hatcap",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.snacks",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.extensive.first.aid.kit",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.backpack",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.tshirts",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.pants",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.underwear",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.phone.charger",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.cash",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.ski.wax",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.rain.jacket",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.hand.sanitizer",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.multi.tool",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.sweatshirt",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.support.bandages",
+          "priority": 0.5
+        }
+      ]
+    },
+    {
+      "nameKey": "activities.seed.kayaking",
+      "icon": "kayak",
+      "categoryKey": "activity_categories.seed.water.sports",
+      "sortOrder": 1,
+      "colorHex": "#00C7BE",
+      "defaultItemKeys": [
+        "items.life.jacket",
+        "items.paddle",
+        "items.water.bottle"
+      ],
+      "suggestedItems": [
+        {
+          "itemKey": "items.kayak",
+          "priority": 0.95
+        },
+        {
+          "itemKey": "items.dry.bags",
+          "priority": 0.9
+        },
+        {
+          "itemKey": "items.sunscreen",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.waterproof.phone.case",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.quickdry.clothes",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.water.shoes",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.extensive.first.aid.kit",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.medications",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.sunglasses",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.hatcap",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.flashlight",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.rope",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.rash.guard",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.wetsuit",
+          "priority": 0.55
+        },
+        {
+          "itemKey": "items.windbreaker",
+          "priority": 0.55
+        },
+        {
+          "itemKey": "items.multi.tool",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.cash",
+          "priority": 0.5
+        }
+      ]
+    },
+    {
+      "nameKey": "activities.seed.snowboarding",
+      "icon": "figure.snowboarding",
+      "categoryKey": "activity_categories.seed.water.sports",
+      "sortOrder": 1,
+      "colorHex": "#5856D6",
+      "defaultItemKeys": [
+        "items.ski.gloves",
+        "items.ski.goggles",
+        "items.ski.helmet",
+        "items.ski.jacket",
+        "items.ski.lift.tickets",
+        "items.ski.pants",
+        "items.snowboard",
+        "items.snowboard.boots"
+      ],
+      "suggestedItems": [
+        {
+          "itemKey": "items.medications",
+          "priority": 0.95
+        },
+        {
+          "itemKey": "items.base.layers",
+          "priority": 0.9
+        },
+        {
+          "itemKey": "items.emergency.medication",
+          "priority": 0.9
+        },
+        {
+          "itemKey": "items.ski.socks",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.sunscreen",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.wrist.guards",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.fleece",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.thermal.underwear",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.sunglasses",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.water.bottle",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.extensive.first.aid.kit",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.lip.balm.for.cold.weather",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.antiinflammatory.medication",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.pain.relief.medication",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.hand.warmers",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.foot.warmers",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.energy.bars",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.ski.lock",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.multi.tool",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.knee.protection",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.neck.warmer",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.windbreaker",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.hatcap",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.snacks",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.backpack",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.tshirts",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.pants",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.underwear",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.phone.charger",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.cash",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.snowboard.wax",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.support.bandages",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.rain.jacket",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.hand.sanitizer",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.sweatshirt",
+          "priority": 0.6
+        }
+      ]
+    },
+    {
+      "nameKey": "activities.seed.ice.skating",
+      "icon": "figure.ice.skating",
+      "categoryKey": "activity_categories.seed.water.sports",
+      "sortOrder": 2,
+      "colorHex": "#007AFF",
+      "defaultItemKeys": [
+        "items.gloves",
+        "items.hatcap",
+        "items.ice.skates",
+        "items.warm.clothing",
+        "items.warm.socks"
+      ],
+      "suggestedItems": [
+        {
+          "itemKey": "items.medications",
+          "priority": 0.95
+        },
+        {
+          "itemKey": "items.emergency.medication",
+          "priority": 0.9
+        },
+        {
+          "itemKey": "items.base.layers",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.thermal.underwear",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.winter.jacket",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.hand.warmers",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.foot.warmers",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.tshirts",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.pants",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.underwear",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.lip.balm.for.cold.weather",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.extensive.first.aid.kit",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.fleece",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.neck.warmer",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.sunscreen",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.energy.bars",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.snacks",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.water.bottle",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.pain.relief.medication",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.backpack",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.windbreaker",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.sunglasses",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.antiinflammatory.medication",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.hand.sanitizer",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.cash",
+          "priority": 0.6
+        }
+      ]
+    },
+    {
+      "nameKey": "activities.seed.paddleboarding",
+      "icon": "paddleboard",
+      "categoryKey": "activity_categories.seed.water.sports",
+      "sortOrder": 3,
+      "colorHex": "#00C7BE",
+      "defaultItemKeys": [
+        "items.life.jacket",
+        "items.paddle",
+        "items.swimsuit",
+        "items.water.bottle"
+      ],
+      "suggestedItems": [
+        {
+          "itemKey": "items.paddleboard",
+          "priority": 0.95
+        },
+        {
+          "itemKey": "items.sunscreen",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.water.shoes",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.waterproof.phone.case",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.rash.guard",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.beach.towel",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.reflective.vest",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.sunglasses",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.medications",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.hatcap",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.extensive.first.aid.kit",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.quickdry.clothes",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.beach.bag",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.rope",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.flashlight",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.wetsuit",
+          "priority": 0.55
+        },
+        {
+          "itemKey": "items.windbreaker",
+          "priority": 0.55
+        },
+        {
+          "itemKey": "items.lip.balm",
+          "priority": 0.55
+        },
+        {
+          "itemKey": "items.aloe.vera",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.backpack",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.multi.tool",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.cash",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.pain.relief.medication",
+          "priority": 0.45
+        },
+        {
+          "itemKey": "items.antiinflammatory.medication",
+          "priority": 0.45
+        }
+      ]
+    },
+    {
+      "nameKey": "activities.seed.surfing",
+      "icon": "figure.surfing",
+      "categoryKey": "activity_categories.seed.water.sports",
+      "sortOrder": 4,
+      "colorHex": "#007AFF",
+      "defaultItemKeys": [
+        "items.sunscreen",
+        "items.surfboard",
+        "items.surf.leash",
+        "items.surf.wax",
+        "items.swimsuit"
+      ],
+      "suggestedItems": [
+        {
+          "itemKey": "items.wetsuit",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.rash.guard",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.beach.towel",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.waterproof.phone.case",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.medications",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.fin.key",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.sunglasses",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.hatcap",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.life.jacket",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.extensive.first.aid.kit",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.wax.comb",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.surf.booties",
+          "priority": 0.55
+        },
+        {
+          "itemKey": "items.aloe.vera",
+          "priority": 0.55
+        },
+        {
+          "itemKey": "items.backpack",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.windbreaker",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.cash",
+          "priority": 0.5
+        }
+      ]
+    },
+    {
+      "nameKey": "activities.seed.sailing",
+      "icon": "sailboat.fill",
+      "categoryKey": "activity_categories.seed.water.sports",
+      "sortOrder": 5,
+      "colorHex": "#007AFF",
+      "defaultItemKeys": [
+        "items.life.jacket",
+        "items.reflective.vest",
+        "items.rope",
+        "items.sunscreen",
+        "items.water.bottle",
+        "items.water.shoes"
+      ],
+      "suggestedItems": [
+        {
+          "itemKey": "items.compass",
+          "priority": 0.9
+        },
+        {
+          "itemKey": "items.medications",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.battery.radio",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.extensive.first.aid.kit",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.flashlight",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.waterproof.phone.case",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.windbreaker",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.rain.jacket",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.sunglasses",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.multi.tool",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.quickdry.clothes",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.hatcap",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.headlamp",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.long.sleevespants",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.lip.balm",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.fleece",
+          "priority": 0.55
+        },
+        {
+          "itemKey": "items.gloves",
+          "priority": 0.55
+        },
+        {
+          "itemKey": "items.warm.socks",
+          "priority": 0.55
+        },
+        {
+          "itemKey": "items.backpack",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.aloe.vera",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.cash",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.pain.relief.medication",
+          "priority": 0.45
+        },
+        {
+          "itemKey": "items.antiinflammatory.medication",
+          "priority": 0.45
+        }
+      ]
+    },
+    {
+      "nameKey": "activities.seed.snorkeling",
+      "icon": "snorkel",
+      "categoryKey": "activity_categories.seed.water.sports",
+      "sortOrder": 6,
+      "colorHex": "#007AFF",
+      "defaultItemKeys": [
+        "items.goggles",
+        "items.life.jacket",
+        "items.snorkel",
+        "items.sunscreen",
+        "items.swim.fins",
+        "items.swimsuit"
+      ],
+      "suggestedItems": [
+        {
+          "itemKey": "items.water.shoes",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.beach.towel",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.rash.guard",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.waterproof.phone.case",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.medications",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.beach.bag",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.sunglasses",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.hatcap",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.extensive.first.aid.kit",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.wetsuit",
+          "priority": 0.55
+        },
+        {
+          "itemKey": "items.lip.balm",
+          "priority": 0.55
+        },
+        {
+          "itemKey": "items.backpack",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.aloe.vera",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.cash",
+          "priority": 0.5
+        }
+      ]
+    },
+    {
+      "nameKey": "activities.seed.diving",
+      "icon": "scuba",
+      "categoryKey": "activity_categories.seed.water.sports",
+      "sortOrder": 11,
+      "colorHex": "#007AFF",
+      "defaultItemKeys": [
+        "items.goggles",
+        "items.scuba.bcd",
+        "items.scuba.regulator",
+        "items.scuba.tank",
+        "items.swim.fins",
+        "items.wetsuit"
+      ],
+      "suggestedItems": [
+        {
+          "itemKey": "items.extensive.first.aid.kit",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.snorkel",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.flashlight",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.medications",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.sunscreen",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.waterproof.phone.case",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.rope",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.beach.towel",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.life.jacket",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.beach.bag",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.headlamp",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.water.shoes",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.multi.tool",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.gloves",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.rash.guard",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.sunglasses",
+          "priority": 0.55
+        },
+        {
+          "itemKey": "items.hatcap",
+          "priority": 0.55
+        },
+        {
+          "itemKey": "items.lip.balm",
+          "priority": 0.55
+        },
+        {
+          "itemKey": "items.backpack",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.pain.relief.medication",
+          "priority": 0.45
+        },
+        {
+          "itemKey": "items.antiinflammatory.medication",
+          "priority": 0.45
+        }
+      ]
+    },
+    {
+      "nameKey": "activities.seed.rainy",
+      "icon": "cloud.rain.fill",
+      "categoryKey": "activity_categories.seed.weather",
+      "sortOrder": 0,
+      "colorHex": "#5856D6",
+      "defaultItemKeys": [
+        "items.rain.jacket",
+        "items.umbrella",
+        "items.waterproof.shoes"
+      ],
+      "suggestedItems": [
+        {
+          "itemKey": "items.rain.pants",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.waterproof.bag",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.socks",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.towel",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.waterproof.phone.case",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.poncho",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.waterproof.pouch",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.quickdry.clothing",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.rain.cover",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.rain.hat",
+          "priority": 0.55
+        },
+        {
+          "itemKey": "items.breathable.rain.gear",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.water.shoes",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.rain.suit",
+          "priority": 0.4
+        },
+        {
+          "itemKey": "items.camera.rain.cover",
+          "priority": 0.35
+        }
+      ]
+    },
+    {
+      "nameKey": "activities.seed.hot",
+      "icon": "sun.max.fill",
+      "categoryKey": "activity_categories.seed.weather",
+      "sortOrder": 1,
+      "colorHex": "#FF9500",
+      "defaultItemKeys": [
+        "items.hat",
+        "items.sunglasses",
+        "items.sunscreen",
+        "items.water.bottle"
+      ],
+      "suggestedItems": [
+        {
+          "itemKey": "items.rehydration.salts",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.insulated.water.bottle",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.lip.balm.with.spf",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.aloe.vera",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.high.spf.sunscreen",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.cooling.towels",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.quickdry.clothing",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.breathable.clothing.2",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.sun.hat",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.hydration.pack",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.uv.protection",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.sun.protective.clothing",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.polarized.sunglasses",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.aftersun.care",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.portable.fan",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.lightweight.clothing",
+          "priority": 0.55
+        },
+        {
+          "itemKey": "items.quickdry.towel",
+          "priority": 0.55
+        },
+        {
+          "itemKey": "items.sun.shade",
+          "priority": 0.55
+        },
+        {
+          "itemKey": "items.long.sleeve.uv.shirt",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.rash.guard",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.sandals",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.zinc.oxide",
+          "priority": 0.45
+        },
+        {
+          "itemKey": "items.hydration.bladder",
+          "priority": 0.45
+        },
+        {
+          "itemKey": "items.swimsuit",
+          "priority": 0.4
+        },
+        {
+          "itemKey": "items.flip.flops",
+          "priority": 0.4
+        },
+        {
+          "itemKey": "items.cover.up",
+          "priority": 0.35
+        },
+        {
+          "itemKey": "items.strong.insect.repellent",
+          "priority": 0.35
+        }
+      ]
+    },
+    {
+      "nameKey": "activities.seed.cold",
+      "icon": "snowflake",
+      "categoryKey": "activity_categories.seed.weather",
+      "sortOrder": 2,
+      "colorHex": "#007AFF",
+      "defaultItemKeys": [
+        "items.gloves",
+        "items.thermal.underwear",
+        "items.warm.hat",
+        "items.warm.layers",
+        "items.warm.socks",
+        "items.winter.jacket"
+      ],
+      "suggestedItems": [
+        {
+          "itemKey": "items.hand.warmers",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.base.layers",
+          "priority": 0.85
+        },
+        {
+          "itemKey": "items.scarf",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.foot.warmers",
+          "priority": 0.8
+        },
+        {
+          "itemKey": "items.fleece",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.thermal.layers",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.body.warmers",
+          "priority": 0.75
+        },
+        {
+          "itemKey": "items.warm.boots",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.down.jacket",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.thermal.socks",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.windproof.clothing",
+          "priority": 0.7
+        },
+        {
+          "itemKey": "items.neck.gaiter",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.insulated.jacket",
+          "priority": 0.65
+        },
+        {
+          "itemKey": "items.lip.balm.for.cold.weather",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.insulated.water.bottle",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.wool.socks",
+          "priority": 0.6
+        },
+        {
+          "itemKey": "items.insulated.boots",
+          "priority": 0.55
+        },
+        {
+          "itemKey": "items.glove.liners",
+          "priority": 0.55
+        },
+        {
+          "itemKey": "items.balaclava",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.packable.down.jacket",
+          "priority": 0.5
+        },
+        {
+          "itemKey": "items.windbreaker",
+          "priority": 0.45
+        },
+        {
+          "itemKey": "items.thermal.sleepwear",
+          "priority": 0.4
+        },
+        {
+          "itemKey": "items.microspikes",
+          "priority": 0.35
+        },
+        {
+          "itemKey": "items.emergency.blanket",
+          "priority": 0.3
+        }
+      ]
+    }
+  ]
+}
