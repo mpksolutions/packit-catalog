@@ -12,11 +12,11 @@
     "strings": {
       "en-GB": {
         "path": "strings/en-GB.json",
-        "checksum": "d0a9303ddbad4159eca364dcb75095ab6952390bc3845dc8c282c26c60db00ee"
+        "checksum": "11609f048b7d2a97f983c2fc6c054ea79f530a74c5e8d1cfa820b3ab4a5ebf3a"
       },
       "en": {
         "path": "strings/en.json",
-        "checksum": "841d9eeb9460588a1570b3a038e69d5dee31b4749c0f537d335bdcf7e7c794ca"
+        "checksum": "3ad81ad9f7012295bd067977326dfc16f97f07d3f690c250091e809bc21e8c46"
       }
     }
   }
