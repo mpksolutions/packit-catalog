@@ -7,16 +7,16 @@
     },
     "activities": {
       "path": "activities.json",
-      "checksum": "360368c2efeb732168f327043d1e4cc145a9ca86e3ecb890643f7d0bb6ec8903"
+      "checksum": "ffe8b3fd7097390cac3aeea698ac37c2c5663c00d14f5df7b30a666c6977663d"
     },
     "strings": {
       "en-GB": {
         "path": "strings/en-GB.json",
-        "checksum": "0f910dfab1ebcac4573f319aef9af0e895126932e9146b7813b2f11edd88d4fe"
+        "checksum": "d0a9303ddbad4159eca364dcb75095ab6952390bc3845dc8c282c26c60db00ee"
       },
       "en": {
         "path": "strings/en.json",
-        "checksum": "21f0131019c830c7bb9d2565bfd590ab0854769df0619a9088b2de7dbe6121fc"
+        "checksum": "841d9eeb9460588a1570b3a038e69d5dee31b4749c0f537d335bdcf7e7c794ca"
       }
     }
   }
