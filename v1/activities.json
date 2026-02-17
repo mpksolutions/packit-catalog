@@ -4242,6 +4242,17 @@
       ]
     },
     {
+      "nameKey": "activities.seed.testtheme",
+      "icon": "figure.pool.swim",
+      "categoryKey": "activity_categories.seed.travel",
+      "sortOrder": 0,
+      "colorHex": "#d357fe",
+      "defaultItemKeys": [
+        "items.eye.mask"
+      ],
+      "suggestedItems": []
+    },
+    {
       "nameKey": "activities.seed.roadtrip",
       "icon": "car.fill",
       "categoryKey": "activity_categories.seed.travel",
