@@ -167,6 +167,7 @@
     "items.climbing.helmet": "Climbing Helmet",
     "items.climbing.nuts": "Climbing Nuts",
     "items.climbing.shoes": "Climbing Shoes",
+    "items.climbing.tape": "Climbing Tape",
     "items.clothing.liners": "Clothing Liners",
     "items.cocktail.dress": "Cocktail Dress",
     "items.coffee": "Coffee",
@@ -189,6 +190,7 @@
     "items.cooler.bag": "Cooler Bag",
     "items.cooling.towels": "Cooling Towels",
     "items.cover.up": "Cover Up",
+    "items.crash.pad": "Crash Pad",
     "items.crayons": "Crayons",
     "items.credit.cards": "Credit Cards",
     "items.cycling.gloves": "Cycling Gloves",
@@ -230,6 +232,7 @@
     "items.energy.bars": "Energy Bars",
     "items.energy.gels": "Energy Gels",
     "items.evening.bag": "Evening Bag",
+    "items.event.ticket": "Event Ticket/Registration",
     "items.extensive.first.aid.kit": "Extensive First Aid Kit",
     "items.extra.pet.leash": "Extra Pet Leash",
     "items.eye.mask": "Eye Mask",
@@ -589,6 +592,7 @@
     "items.tracking.mount": "Tracking Mount",
     "items.trail.mix": "Trail Mix",
     "items.travel.blanket": "Travel Blanket",
+    "items.travel.documents": "Travel Documents",
     "items.travel.insurance": "Travel Insurance",
     "items.travel.lock": "Travel Lock",
     "items.travel.medicine.kit": "Travel Medicine Kit",
@@ -648,6 +652,12 @@
     "items.yoga.blocks": "Yoga Blocks",
     "items.yoga.mat": "Yoga Mat",
     "items.yoga.strap": "Yoga Strap",
-    "items.zinc.oxide": "Zinc Oxide"
+    "items.zinc.oxide": "Zinc Oxide",
+    "items.camera.charger": "Camera Charger",
+    "items.memory.card.case": "Memory Card Case",
+    "items.card.reader": "Card Reader",
+    "items.portable.ssd": "Portable SSD",
+    "items.sensor.cleaning.kit": "Sensor Cleaning Kit",
+    "items.lens.hood": "Lens Hood"
   }
 }

@@ -327,6 +327,11 @@
       "estimatedWeight": 200
     },
     {
+      "nameKey": "items.camera.charger",
+      "categoryKey": "categories.categoryelectronics",
+      "estimatedWeight": 220
+    },
+    {
       "nameKey": "items.camera.lens",
       "categoryKey": "categories.categorygear",
       "estimatedWeight": 800
@@ -417,6 +422,11 @@
       "estimatedWeight": 50
     },
     {
+      "nameKey": "items.card.reader",
+      "categoryKey": "categories.categoryelectronics",
+      "estimatedWeight": 40
+    },
+    {
       "nameKey": "items.cash",
       "categoryKey": "categories.categorydocuments",
       "estimatedWeight": 20
@@ -485,6 +495,11 @@
       "nameKey": "items.climbing.shoes",
       "categoryKey": "categories.categoryclothing",
       "estimatedWeight": 500
+    },
+    {
+      "nameKey": "items.climbing.tape",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 60
     },
     {
       "nameKey": "items.clothing.liners",
@@ -595,6 +610,11 @@
       "nameKey": "items.cover.up",
       "categoryKey": "categories.categoryclothing",
       "estimatedWeight": 150
+    },
+    {
+      "nameKey": "items.crash.pad",
+      "categoryKey": "categories.categorygear",
+      "estimatedWeight": 5000
     },
     {
       "nameKey": "items.crayons",
@@ -800,6 +820,11 @@
       "nameKey": "items.evening.bag",
       "categoryKey": "categories.categoryaccessories",
       "estimatedWeight": 300
+    },
+    {
+      "nameKey": "items.event.ticket",
+      "categoryKey": "categories.categorydocuments",
+      "estimatedWeight": 5
     },
     {
       "nameKey": "items.extensive.first.aid.kit",
@@ -1312,6 +1337,11 @@
       "estimatedWeight": 150
     },
     {
+      "nameKey": "items.lens.hood",
+      "categoryKey": "categories.categoryaccessories",
+      "estimatedWeight": 70
+    },
+    {
       "nameKey": "items.leveling.pads",
       "categoryKey": "categories.categorygear",
       "estimatedWeight": 200
@@ -1450,6 +1480,11 @@
       "nameKey": "items.meditation.cushion",
       "categoryKey": "categories.categorygear",
       "estimatedWeight": 800
+    },
+    {
+      "nameKey": "items.memory.card.case",
+      "categoryKey": "categories.categoryaccessories",
+      "estimatedWeight": 80
     },
     {
       "nameKey": "items.memory.cards",
@@ -1807,6 +1842,11 @@
       "estimatedWeight": 200
     },
     {
+      "nameKey": "items.portable.ssd",
+      "categoryKey": "categories.categoryelectronics",
+      "estimatedWeight": 120
+    },
+    {
       "nameKey": "items.portfolio",
       "categoryKey": "categories.categorydocuments",
       "estimatedWeight": 500
@@ -2085,6 +2125,11 @@
       "nameKey": "items.seat.cushion",
       "categoryKey": "categories.categorygear",
       "estimatedWeight": 600
+    },
+    {
+      "nameKey": "items.sensor.cleaning.kit",
+      "categoryKey": "categories.categoryaccessories",
+      "estimatedWeight": 90
     },
     {
       "nameKey": "items.sewing.kit",
@@ -2595,6 +2640,11 @@
       "nameKey": "items.travel.blanket",
       "categoryKey": "categories.categorygear",
       "estimatedWeight": 500
+    },
+    {
+      "nameKey": "items.travel.documents",
+      "categoryKey": "categories.categorydocuments",
+      "estimatedWeight": 30
     },
     {
       "nameKey": "items.travel.insurance",
